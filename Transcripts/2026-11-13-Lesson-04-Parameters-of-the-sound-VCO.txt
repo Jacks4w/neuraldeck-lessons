@@ -1,0 +1,3692 @@
+10:03:22 --> 10:03:25
+Giacomo Satoru Quintili: Alright, let's begin the lesson.
+
+10:03:25 --> 10:03:28
+Giacomo Satoru Quintili: Uh, with some practice.
+
+10:03:28 --> 10:03:30
+Giacomo Satoru Quintili: The sequence, sir.
+
+10:03:30 --> 10:03:36
+Giacomo Satoru Quintili: All of you submitted, so I'm supposing you know how to do it.
+
+10:03:37 --> 10:03:40
+Giacomo Satoru Quintili: Uh, the sequencer, I mean. So…
+
+10:03:40 --> 10:03:46
+Giacomo Satoru Quintili: Everybody share screen, except for Mukshan Song, obviously, because she's new.
+
+10:03:46 --> 10:03:47
+Giacomo Satoru Quintili: So…
+
+10:03:47 --> 10:03:49
+Giacomo Satoru Quintili: Just a moment.
+
+10:03:51 --> 10:03:54
+travismorgado: History Sharing Forum Forward.
+
+10:03:53 --> 10:03:58
+Giacomo Satoru Quintili: Uh, practice. We do basic patch with the sequencer.
+
+10:03:57 --> 10:03:59
+travismorgado: Ho già.
+
+10:03:59 --> 10:04:02
+Giacomo Satoru Quintili: So, I checked your homeworks…
+
+10:03:59 --> 10:04:02
+Giacomo Satoru Quintili: Sour high chack your homarts.
+
+10:04:03 --> 10:04:08
+Giacomo Satoru Quintili: Just be careful to do the…
+
+10:04:08 --> 10:04:13
+Giacomo Satoru Quintili: range to set the range of the sequencer.
+
+10:04:13 --> 10:04:16
+Giacomo Satoru Quintili: To one volt, one octave.
+
+10:04:17 --> 10:04:18
+Giacomo Satoru Quintili: Okay?
+
+10:04:20 --> 10:04:27
+Giacomo Satoru Quintili: And also, remember to set the rate of the sequencer, otherwise it doesn't work, right?
+
+10:04:38 --> 10:04:40
+Giacomo Satoru Quintili: Hello there.
+
+10:04:40 --> 10:04:43
+travismorgado: Su surfred raigement di chiama. E.
+
+10:04:43 --> 10:04:46
+Giacomo Satoru Quintili: BPM, yes, rate of the sequencer.
+
+10:04:44 --> 10:04:49
+travismorgado: Okad a Mowers post di una Housemacna Avvers Hutch Bad Semictor.
+
+10:04:49 --> 10:04:50
+Giacomo Satoru Quintili: Yes.
+
+10:04:50 --> 10:04:51
+travismorgado: Ok.
+
+10:04:50 --> 10:04:53
+Giacomo Satoru Quintili: From scratch, it's just like an exercise.
+
+10:04:53 --> 10:04:57
+Giacomo Satoru Quintili: So, basic patch, VCO, oscillator.
+
+10:04:57 --> 10:04:58
+Giacomo Satoru Quintili: filter.
+
+10:04:58 --> 10:04:59
+Giacomo Satoru Quintili: Amplifier.
+
+10:05:19 --> 10:05:22
+Giacomo Satoru Quintili: What's happening? People are leaving.
+
+10:05:27 --> 10:05:29
+Giacomo Satoru Quintili: So, currently, Travis…
+
+10:05:29 --> 10:05:39
+Giacomo Satoru Quintili: and Ivona are sharing. Muxuansong is just here, she's new to the course, so…
+
+10:05:39 --> 10:05:41
+Giacomo Satoru Quintili: She cannot do the patch.
+
+10:05:44 --> 10:05:49
+Giacomo Satoru Quintili: Li Lingjing was present, now she currently left the call.
+
+10:05:49 --> 10:05:54
+Giacomo Satoru Quintili: She will probably come back, maybe she's fixing a problem.
+
+10:05:55 --> 10:05:59
+Giacomo Satoru Quintili: Hang Zi as well is missing.
+
+10:05:59 --> 10:06:02
+Giacomo Satoru Quintili: He was here, then he disconnected.
+
+10:06:32 --> 10:06:35
+Giacomo Satoru Quintili: Li Lingjin is back.
+
+10:06:35 --> 10:06:38
+Liling Jin: Hey, sorry, the internet have some problem.
+
+10:06:37 --> 10:06:44
+Giacomo Satoru Quintili: Yeah, yeah, yeah. I'm just recording everything, guys. I'm just stating everything for the records.
+
+10:06:45 --> 10:06:47
+Giacomo Satoru Quintili: So…
+
+10:06:48 --> 10:06:49
+Giacomo Satoru Quintili: Who you can.
+
+10:06:49 --> 10:06:52
+Giacomo Satoru Quintili: Is here who you can?
+
+10:06:52 --> 10:06:57
+Giacomo Satoru Quintili: And Li Lingjing are back at 10 and 6 AM.
+
+10:07:01 --> 10:07:09
+Giacomo Satoru Quintili: So, welcome you, Wu, Yukian. The current task is practice. Do some practice.
+
+10:07:09 --> 10:07:11
+Giacomo Satoru Quintili: The.
+
+10:07:11 --> 10:07:14
+Giacomo Satoru Quintili: Current task is create.
+
+10:07:14 --> 10:07:19
+Giacomo Satoru Quintili: A basic patch with the sequencer, basically the exercise for today.
+
+10:07:19 --> 10:07:30
+Giacomo Satoru Quintili: Uh, I checked your homework, uh, it's pretty… it's… everything is correct, pretty much. Just be careful about the… the range of the sequencer.
+
+10:07:30 --> 10:07:32
+Wu Yuqian: Okay.
+
+10:07:31 --> 10:07:33
+Giacomo Satoru Quintili: Okay.
+
+10:07:37 --> 10:07:40
+Giacomo Satoru Quintili: The range of the sequencer, uh…
+
+10:07:40 --> 10:07:45
+Giacomo Satoru Quintili: Set it to one volt, one octave, basically.
+
+10:08:03 --> 10:08:05
+Giacomo Satoru Quintili: Very good.
+
+10:08:17 --> 10:08:21
+Giacomo Satoru Quintili: Yep, that's the audio signal. It's entering here. Low pass.
+
+10:08:24 --> 10:08:26
+Giacomo Satoru Quintili: Ra.
+
+10:08:29 --> 10:08:32
+travismorgado: On the S. Min. Ray Amander Sennan Itting.
+
+10:08:30 --> 10:08:32
+Giacomo Satoru Quintili: Yes.
+
+10:08:33 --> 10:08:35
+Giacomo Satoru Quintili: Uh…
+
+10:08:36 --> 10:08:40
+Giacomo Satoru Quintili: Yes, just and this I will.
+
+10:08:40 --> 10:08:44
+Giacomo Satoru Quintili: Uh, tell you in the feedback document, use the other filter.
+
+10:08:45 --> 10:08:48
+travismorgado: O suypred the suon.
+
+10:08:47 --> 10:08:49
+Giacomo Satoru Quintili: Yep, yep.
+
+10:08:49 --> 10:08:51
+travismorgado: Power High Ead.
+
+10:08:50 --> 10:08:56
+Giacomo Satoru Quintili: No, don't worry. Don't worry, don't worry. And then increase the rate.
+
+10:08:51 --> 10:08:53
+travismorgado: Lautar week-end.
+
+10:08:57 --> 10:09:03
+Giacomo Satoru Quintili: I mean, uh, this is… you don't have to do the same sequence of the exercise, okay?
+
+10:09:03 --> 10:09:07
+Giacomo Satoru Quintili: Uh, just show me that you know how to make the sequencer work.
+
+10:09:07 --> 10:09:10
+travismorgado: Al cerviglio da Sili osseat da.
+
+10:09:07 --> 10:09:08
+Giacomo Satoru Quintili: Okay.
+
+10:09:10 --> 10:09:12
+Giacomo Satoru Quintili: Yes, please. Yes.
+
+10:09:11 --> 10:09:12
+travismorgado: Ok.
+
+10:09:18 --> 10:09:22
+Daniel Bradarić: Should I put some notes on?
+
+10:09:21 --> 10:09:25
+Giacomo Satoru Quintili: Random, you pick. Yes, yes, random notes.
+
+10:09:22 --> 10:09:23
+Daniel Bradarić: Okay.
+
+10:09:25 --> 10:09:29
+Giacomo Satoru Quintili: Otherwise, it take too long. Takes too long to do this exercise.
+
+10:09:30 --> 10:09:37
+Giacomo Satoru Quintili: Just show me that you… you know how to… how the sequencer works, and how to make it work. That's the objective, okay?
+
+10:09:38 --> 10:09:45
+Giacomo Satoru Quintili: Increase the rate, do something make a good sequence, right?
+
+10:09:45 --> 10:09:46
+Giacomo Satoru Quintili: And tell them…
+
+10:09:46 --> 10:09:50
+Giacomo Satoru Quintili: Maybe we can listen to some of them, right?
+
+10:09:58 --> 10:10:01
+Giacomo Satoru Quintili: Let's see the output. Yes.
+
+10:10:04 --> 10:10:05
+Giacomo Satoru Quintili: Well done.
+
+10:10:06 --> 10:10:08
+Giacomo Satoru Quintili: Bravo.
+
+10:10:10 --> 10:10:12
+Giacomo Satoru Quintili: Yes, remember.
+
+10:10:13 --> 10:10:15
+Giacomo Satoru Quintili: Bravo, yeah, correct.
+
+10:10:31 --> 10:10:34
+Giacomo Satoru Quintili: How do you… how do you, uh…
+
+10:10:34 --> 10:10:36
+Giacomo Satoru Quintili: Increase…
+
+10:10:37 --> 10:10:41
+Giacomo Satoru Quintili: The rate, the speed of the sequence.
+
+10:10:42 --> 10:10:43
+Giacomo Satoru Quintili: Let me see if you know.
+
+10:10:46 --> 10:10:52
+Daniel Bradarić: Click the right click, and then edit value, and then I…
+
+10:10:52 --> 10:10:53
+Daniel Bradarić: Right.
+
+10:10:53 --> 10:10:59
+Giacomo Satoru Quintili: Oh, yeah, yeah, yeah. No, no, I was talking to Lilin because… yeah, it's okay, it's okay, you wanna…
+
+10:10:56 --> 10:10:59
+Daniel Bradarić: Ah, sorry.
+
+10:10:59 --> 10:11:07
+Giacomo Satoru Quintili: Uh, because she, uh, has to… she still has to set the sequencer, um…
+
+10:11:07 --> 10:11:13
+Giacomo Satoru Quintili: a rate, no? So, this is a very important thing. If you don't set the rate.
+
+10:11:15 --> 10:11:22
+Giacomo Satoru Quintili: I mean, you need to know how to change the speed of the sequence, right? It's a musical thing.
+
+10:11:23 --> 10:11:27
+Giacomo Satoru Quintili: Who, uh, who you can… can you share the screen?
+
+10:11:30 --> 10:11:31
+Wu Yuqian: Okay.
+
+10:11:31 --> 10:11:33
+Giacomo Satoru Quintili: Brava, living.
+
+10:11:34 --> 10:11:36
+Giacomo Satoru Quintili: Nice, good.
+
+10:11:35 --> 10:11:38
+Liling Jin: It's right, yeah.
+
+10:11:36 --> 10:11:37
+Giacomo Satoru Quintili: Yep.
+
+10:11:37 --> 10:11:45
+Giacomo Satoru Quintili: Yep. And how do you change the press play? Press play on the sequencer?
+
+10:11:47 --> 10:11:49
+Liling Jin: Here?
+
+10:11:49 --> 10:11:55
+Giacomo Satoru Quintili: Uh, no, the play button on the more, uh, you can't see my…
+
+10:11:56 --> 10:12:01
+Giacomo Satoru Quintili: drawings. The play button on the sequencer, you see it? Can you see it?
+
+10:12:04 --> 10:12:06
+Liling Jin: Mmm…
+
+10:12:07 --> 10:12:11
+Giacomo Satoru Quintili: You see that the sequencer module has buttons.
+
+10:12:12 --> 10:12:14
+Giacomo Satoru Quintili: Right.
+
+10:12:14 --> 10:12:15
+Giacomo Satoru Quintili: On top.
+
+10:12:17 --> 10:12:18
+Liling Jin: Here?
+
+10:12:18 --> 10:12:20
+Giacomo Satoru Quintili: No.
+
+10:12:23 --> 10:12:24
+Liling Jin: this…
+
+10:12:25 --> 10:12:31
+Giacomo Satoru Quintili: Uh, no, no, no, no. Um, on the, on the module, the sequencer.
+
+10:12:25 --> 10:12:27
+Liling Jin: No, this is temple.
+
+10:12:31 --> 10:12:36
+Giacomo Satoru Quintili: There is a stop button, a red stop button, and play. Yes, play.
+
+10:12:31 --> 10:12:32
+Liling Jin: Yes.
+
+10:12:36 --> 10:12:38
+Giacomo Satoru Quintili: All right!
+
+10:12:38 --> 10:12:39
+Giacomo Satoru Quintili: Is he?
+
+10:12:39 --> 10:12:44
+Giacomo Satoru Quintili: That's the sequence. Now, how can you change the notes?
+
+10:12:45 --> 10:12:46
+Liling Jin: Here.
+
+10:12:45 --> 10:12:47
+Giacomo Satoru Quintili: Brown.
+
+10:12:47 --> 10:12:48
+Giacomo Satoru Quintili: Try.
+
+10:12:50 --> 10:12:58
+Giacomo Satoru Quintili: Random. Just go random. They don't matter now. Not now, on the exercise they did.
+
+10:12:54 --> 10:12:55
+Liling Jin: Heh.
+
+10:12:58 --> 10:12:59
+Liling Jin: Ah.
+
+10:13:01 --> 10:13:04
+Liling Jin: Uh, the notes is…
+
+10:13:04 --> 10:13:11
+Giacomo Satoru Quintili: No, no, no, just set random now, and then press play, and then tweak, so you learn, you know? You learn how the sequencer works.
+
+10:13:11 --> 10:13:12
+Liling Jin: Mmhm.
+
+10:13:15 --> 10:13:17
+Giacomo Satoru Quintili: Is he?
+
+10:13:17 --> 10:13:18
+Liling Jin: Yeah.
+
+10:13:17 --> 10:13:23
+Giacomo Satoru Quintili: That's it. That's what you need to learn. You need to learn how to change the sequence speed.
+
+10:13:23 --> 10:13:25
+Giacomo Satoru Quintili: How to set the notes.
+
+10:13:27 --> 10:13:29
+Giacomo Satoru Quintili: And that's it.
+
+10:13:29 --> 10:13:30
+Liling Jin: Hmm. Okay.
+
+10:13:29 --> 10:13:32
+Giacomo Satoru Quintili: Okay, that was the task, okay guys?
+
+10:13:31 --> 10:13:33
+Liling Jin: Okay.
+
+10:13:33 --> 10:13:39
+Giacomo Satoru Quintili: Uh, anybody? Any question? Is it the sequencer?
+
+10:13:39 --> 10:13:41
+Giacomo Satoru Quintili: Understandable.
+
+10:13:41 --> 10:13:43
+Daniel Bradarić: Yes.
+
+10:13:42 --> 10:13:43
+Giacomo Satoru Quintili: Umm.
+
+10:13:43 --> 10:13:45
+Giacomo Satoru Quintili: All right, let's stop.
+
+10:13:47 --> 10:13:54
+Giacomo Satoru Quintili: So, uh, let me, uh, remind you why is the, is so important. The sequencer, hmm.
+
+10:13:54 --> 10:13:56
+Giacomo Satoru Quintili: It's a.
+
+10:13:56 --> 10:14:02
+Giacomo Satoru Quintili: Remember, it's used… widely used in live performances. Live.
+
+10:14:02 --> 10:14:06
+Giacomo Satoru Quintili: Live performances. It's crucial. Without it.
+
+10:14:06 --> 10:14:14
+Giacomo Satoru Quintili: it's an important tool. So, in the future, you never know, maybe you have a…
+
+10:14:14 --> 10:14:17
+Giacomo Satoru Quintili: You are a singer, right? Or…
+
+10:14:17 --> 10:14:29
+Giacomo Satoru Quintili: some other musician instrument. But you never know, maybe you want to add something electronic into your performance. Well, know that.
+
+10:14:29 --> 10:14:32
+Giacomo Satoru Quintili: A live performance with a sequencer.
+
+10:14:32 --> 10:14:33
+Giacomo Satoru Quintili: It's…
+
+10:14:33 --> 10:14:35
+Giacomo Satoru Quintili: Very important. Okay.
+
+10:14:36 --> 10:14:41
+Giacomo Satoru Quintili: Because you don't have to play. It's gonna play itself, and you can do other stuff.
+
+10:14:41 --> 10:14:51
+Giacomo Satoru Quintili: In the meantime, you can change the time, the timbre, right? You can sing when the sequence is going, right? You can do all kinds of stuff.
+
+10:14:51 --> 10:14:57
+Giacomo Satoru Quintili: So the sequencer is super important for the future, so keep that in mind.
+
+10:14:58 --> 10:15:01
+Giacomo Satoru Quintili: All right, let's begin today's lesson.
+
+10:15:02 --> 10:15:04
+Giacomo Satoru Quintili: I'm gonna start recording.
+
+10:15:05 --> 10:15:09
+Giacomo Satoru Quintili: So today's lesson is going to be about…
+
+10:15:09 --> 10:15:15
+Giacomo Satoru Quintili: parameters of the sound and the VCO, the oscillator.
+
+10:15:17 --> 10:15:19
+Giacomo Satoru Quintili: So.
+
+10:15:19 --> 10:15:23
+Giacomo Satoru Quintili: Parameters of the sound is more about theory.
+
+10:15:24 --> 10:15:28
+Giacomo Satoru Quintili: and VCO, the oscillator.
+
+10:15:28 --> 10:15:30
+Giacomo Satoru Quintili: is more about practice.
+
+10:15:30 --> 10:15:31
+Giacomo Satoru Quintili: Mmm.
+
+10:15:32 --> 10:15:35
+Giacomo Satoru Quintili: So, parameter of the sound…
+
+10:15:37 --> 10:15:38
+Giacomo Satoru Quintili: They are.
+
+10:15:39 --> 10:15:44
+Giacomo Satoru Quintili: 3, and they can be seen into 2 lenses.
+
+10:15:44 --> 10:15:47
+Giacomo Satoru Quintili: Subjective and objective.
+
+10:15:56 --> 10:15:57
+Giacomo Satoru Quintili: Mm-hmm. Mm.
+
+10:15:58 --> 10:16:00
+Giacomo Satoru Quintili: This is a busier wait.
+
+10:16:03 --> 10:16:19
+Giacomo Satoru Quintili: So this is in Italian. Don't worry, I'm going to translate it. Okay. First and foremost, let's establish subjective and objective. So subjective, subjective in Italian, subjective means something that it's.
+
+10:16:20 --> 10:16:24
+Giacomo Satoru Quintili: an opinion, an interpretation.
+
+10:16:24 --> 10:16:25
+Giacomo Satoru Quintili: Huh?
+
+10:16:27 --> 10:16:29
+Giacomo Satoru Quintili: Actually, let me use paint.
+
+10:16:37 --> 10:16:45
+Giacomo Satoru Quintili: Subjective and objective. So subjective is an interpretation, personal interpretation.
+
+10:16:47 --> 10:16:54
+Giacomo Satoru Quintili: Objective is something that is a measurement. It's a measurement.
+
+10:16:57 --> 10:17:00
+Giacomo Satoru Quintili: It cannot be…
+
+10:17:00 --> 10:17:02
+Giacomo Satoru Quintili: Questioned.
+
+10:17:03 --> 10:17:09
+Giacomo Satoru Quintili: Let's make an example, otherwise it's not clear, right? So let's take.
+
+10:17:10 --> 10:17:13
+Giacomo Satoru Quintili: A sunny day.
+
+10:17:17 --> 10:17:20
+Giacomo Satoru Quintili: A sunny day, hmm?
+
+10:17:20 --> 10:17:34
+Giacomo Satoru Quintili: You tell me, on a subjective and an objective level. One of them is a personal interpretation, the other one is a measurement. Think about a sunny day, what do you think is going to be a subjective.
+
+10:17:34 --> 10:17:37
+Giacomo Satoru Quintili: Statement about a sunny day.
+
+10:17:39 --> 10:17:40
+travismorgado: Sta me.
+
+10:17:41 --> 10:17:43
+Giacomo Satoru Quintili: That's a measurement.
+
+10:17:41 --> 10:17:43
+travismorgado: 3 .
+
+10:17:43 --> 10:17:45
+Giacomo Satoru Quintili: There is the sun.
+
+10:17:45 --> 10:17:46
+travismorgado: Non c'è.
+
+10:17:45 --> 10:17:49
+Giacomo Satoru Quintili: That's subjective, actually.
+
+10:17:49 --> 10:17:53
+Daniel Bradarić: I mean, whether you like it or not, I don't know.
+
+10:17:51 --> 10:17:57
+Giacomo Satoru Quintili: Yes. Correct. It's a good day, right? For some people can be a good day.
+
+10:17:54 --> 10:17:55
+Daniel Bradarić: Hahaha.
+
+10:17:57 --> 10:17:58
+Giacomo Satoru Quintili: Or…
+
+10:17:58 --> 10:18:15
+Giacomo Satoru Quintili: I don't know. Maybe a sunny day, it's too hot. So you say, I like the shadows. So I'm a night owl, so I don't like sun. I don't know. I mean, it's up to you. It's a good day or not.
+
+10:18:16 --> 10:18:17
+Giacomo Satoru Quintili: Hmm?
+
+10:18:17 --> 10:18:23
+Giacomo Satoru Quintili: Objective. There is the sun. You cannot question that, right?
+
+10:18:23 --> 10:18:25
+Giacomo Satoru Quintili: There's the sun.
+
+10:18:25 --> 10:18:27
+Giacomo Satoru Quintili: Okay, no clouds.
+
+10:18:28 --> 10:18:32
+Giacomo Satoru Quintili: Unless you don't have eyes, right?
+
+10:18:32 --> 10:18:37
+Giacomo Satoru Quintili: So it's a measurement. Or you could say, what's the temperature?
+
+10:18:38 --> 10:18:40
+Giacomo Satoru Quintili: In a certain area.
+
+10:18:41 --> 10:18:45
+Giacomo Satoru Quintili: That's a measurement.
+
+10:18:45 --> 10:18:49
+Giacomo Satoru Quintili: You could say it's hot or cold.
+
+10:18:49 --> 10:18:52
+Giacomo Satoru Quintili: Right? That's subjective.
+
+10:18:55 --> 10:18:58
+Giacomo Satoru Quintili: You cannot question, though, the temperature.
+
+10:18:59 --> 10:19:03
+Giacomo Satoru Quintili: Simple, no? Subjective, objective.
+
+10:19:03 --> 10:19:05
+Giacomo Satoru Quintili: Now…
+
+10:19:05 --> 10:19:08
+Giacomo Satoru Quintili: Sound is the same. Sound…
+
+10:19:09 --> 10:19:14
+Giacomo Satoru Quintili: has subjective and objective parameters.
+
+10:19:16 --> 10:19:18
+Giacomo Satoru Quintili: So…
+
+10:19:18 --> 10:19:25
+Giacomo Satoru Quintili: What are the subjective parameters and the objectives? Let's start from the subjective ones. Subjective.
+
+10:19:27 --> 10:19:30
+Giacomo Satoru Quintili: There are three, hmm?
+
+10:19:31 --> 10:19:34
+Giacomo Satoru Quintili: You have to memorize them. Hmm.
+
+10:19:34 --> 10:19:41
+Giacomo Satoru Quintili: be familiarized with them. Some of them you already know, for sure. First one, pitch.
+
+10:19:41 --> 10:19:44
+Giacomo Satoru Quintili: Second, volume.
+
+10:19:44 --> 10:19:46
+Giacomo Satoru Quintili: Third, timber.
+
+10:19:48 --> 10:19:52
+Giacomo Satoru Quintili: All musicians must be aware of these.
+
+10:19:52 --> 10:19:56
+Giacomo Satoru Quintili: Features of the sound, the pitch of a sound.
+
+10:19:59 --> 10:20:01
+Giacomo Satoru Quintili: Pitch, personal interpretation.
+
+10:20:03 --> 10:20:06
+Giacomo Satoru Quintili: of how high or low.
+
+10:20:07 --> 10:20:08
+Giacomo Satoru Quintili: a note.
+
+10:20:09 --> 10:20:11
+Giacomo Satoru Quintili: or sound.
+
+10:20:11 --> 10:20:16
+Giacomo Satoru Quintili: It can also have known pitch or known note. No, the sound is.
+
+10:20:18 --> 10:20:21
+Giacomo Satoru Quintili: Let's make an example. How can that be?
+
+10:20:23 --> 10:20:26
+Giacomo Satoru Quintili: Subjective, right? A high pitch is a high pitch.
+
+10:20:26 --> 10:20:29
+Giacomo Satoru Quintili: Let's do an example.
+
+10:20:34 --> 10:20:41
+Giacomo Satoru Quintili: Personal interpretation of how high or low a perceived sound is.
+
+10:20:43 --> 10:20:47
+Giacomo Satoru Quintili: Let's make an example, for example, this one.
+
+10:20:50 --> 10:20:52
+Giacomo Satoru Quintili: Let me lower.
+
+10:20:54 --> 10:20:56
+Giacomo Satoru Quintili: And let's play.
+
+10:20:56 --> 10:20:58
+Giacomo Satoru Quintili: Can you hear the sound?
+
+10:21:00 --> 10:21:02
+Giacomo Satoru Quintili: All right.
+
+10:21:01 --> 10:21:02
+travismorgado: Gas.
+
+10:21:03 --> 10:21:06
+Giacomo Satoru Quintili: It's pretty low, okay, but…
+
+10:21:06 --> 10:21:08
+Giacomo Satoru Quintili: What do you think about the pitch?
+
+10:21:11 --> 10:21:15
+Giacomo Satoru Quintili: It's a personal interpretation, there's no correct or wrong answer.
+
+10:21:17 --> 10:21:19
+Giacomo Satoru Quintili: I can barely hear it.
+
+10:21:17 --> 10:21:19
+travismorgado: On the De Etroyce News.
+
+10:21:19 --> 10:21:23
+travismorgado: È John Sanagers o Awatts Braylynceand.
+
+10:21:23 --> 10:21:26
+Giacomo Satoru Quintili: You are talking about the timber.
+
+10:21:23 --> 10:21:26
+travismorgado: Hoold Kestrers Best Lawns.
+
+10:21:27 --> 10:21:29
+Giacomo Satoru Quintili: Yep.
+
+10:21:31 --> 10:21:34
+Giacomo Satoru Quintili: Is it high or low? What do you think?
+
+10:21:34 --> 10:21:35
+Daniel Bradarić: No.
+
+10:21:35 --> 10:21:36
+Giacomo Satoru Quintili: Low.
+
+10:21:36 --> 10:21:42
+Giacomo Satoru Quintili: Whatever. It's just like you like it. No, it's not wrong or right.
+
+10:21:42 --> 10:21:43
+Giacomo Satoru Quintili: Okay.
+
+10:21:43 --> 10:21:45
+Giacomo Satoru Quintili: And.
+
+10:21:45 --> 10:21:51
+Giacomo Satoru Quintili: So far so good, right? What about, uh, I don't know, aha, maybe it's too much.
+
+10:21:51 --> 10:21:54
+Giacomo Satoru Quintili: This is gonna hurt, so I'm gonna lower it.
+
+10:22:00 --> 10:22:02
+Giacomo Satoru Quintili: Personal interpretation, what do you think?
+
+10:22:03 --> 10:22:05
+Daniel Bradarić: Bye.
+
+10:22:04 --> 10:22:14
+Giacomo Satoru Quintili: Hi. Yeah. Well, unless you are crazy, nobody would say this is a low pitch. Right? I mean, statistically speaking.
+
+10:22:14 --> 10:22:18
+Giacomo Satoru Quintili: All right, so, but what in the middle? That's the problem.
+
+10:22:19 --> 10:22:22
+Giacomo Satoru Quintili: You see, it's not black or white. Let's see.
+
+10:22:26 --> 10:22:28
+Giacomo Satoru Quintili: High, low, hoots.
+
+10:22:29 --> 10:22:30
+Daniel Bradarić: Hi.
+
+10:22:29 --> 10:22:31
+Giacomo Satoru Quintili: What do you think?
+
+10:22:29 --> 10:22:32
+travismorgado: Sto sancire.
+
+10:22:30 --> 10:22:31
+Wu Yuqian: Alright.
+
+10:22:31 --> 10:22:32
+Giacomo Satoru Quintili: Still high, right?
+
+10:22:32 --> 10:22:34
+Giacomo Satoru Quintili: Yes.
+
+10:22:34 --> 10:22:42
+Giacomo Satoru Quintili: Why not? But maybe a piccolo player, a person who plays the piccolo, says, well, this is pretty low pitch.
+
+10:22:43 --> 10:22:52
+Giacomo Satoru Quintili: You know what I mean? Because they play high, high pitch notes all the time. So they are used to hear, right? That's what I mean. Personal interpretation.
+
+10:22:52 --> 10:22:54
+Giacomo Satoru Quintili: Okay.
+
+10:22:54 --> 10:23:00
+Giacomo Satoru Quintili: Then people can say that you're crazy if you say that this is a super high pitch.
+
+10:23:00 --> 10:23:05
+Giacomo Satoru Quintili: No? People would say, oh, yeah, yeah, you're just trolling me, right?
+
+10:23:05 --> 10:23:08
+Giacomo Satoru Quintili: Uh, but that's personal interpretation.
+
+10:23:08 --> 10:23:10
+Giacomo Satoru Quintili: Does it make sense?
+
+10:23:12 --> 10:23:18
+Giacomo Satoru Quintili: Simple, very simple. What about something that cannot be?
+
+10:23:18 --> 10:23:22
+Giacomo Satoru Quintili: questioned, right? Because…
+
+10:23:22 --> 10:23:24
+Giacomo Satoru Quintili: Each of these subjective.
+
+10:23:24 --> 10:23:29
+Giacomo Satoru Quintili: Uh, parameters have a counterpart, an objective counterpart.
+
+10:23:29 --> 10:23:31
+Giacomo Satoru Quintili: What cannot be questioned.
+
+10:23:31 --> 10:23:34
+Giacomo Satoru Quintili: is the frequency.
+
+10:23:34 --> 10:23:35
+Giacomo Satoru Quintili: That's a measurement.
+
+10:23:36 --> 10:23:39
+travismorgado: Dust Bosswall Gasen.
+
+10:23:38 --> 10:23:40
+Giacomo Satoru Quintili: Uh, come again?
+
+10:23:39 --> 10:23:43
+travismorgado: Das Bowls Royum per Destaballs.
+
+10:23:41 --> 10:23:44
+Giacomo Satoru Quintili: Decibels for volume, yes, yes.
+
+10:23:44 --> 10:23:48
+Giacomo Satoru Quintili: More specifically, amplitude. Okay?
+
+10:23:48 --> 10:23:57
+Giacomo Satoru Quintili: Objective. So the objective parallel of the pitch, it's called frequency.
+
+10:23:58 --> 10:24:03
+Giacomo Satoru Quintili: Get acquainted to this term. You already know, probably.
+
+10:24:03 --> 10:24:16
+Giacomo Satoru Quintili: Frequency, it's a measurement. What do we measure? What are we counting? We are counting, with the frequency, the number of oscillations happening in one second.
+
+10:24:17 --> 10:24:20
+Giacomo Satoru Quintili: That cannot be questioned.
+
+10:24:20 --> 10:24:22
+Giacomo Satoru Quintili: So you see?
+
+10:24:22 --> 10:24:29
+Giacomo Satoru Quintili: How many times this sine wave goes up and then down and then goes back here? That's a cycle.
+
+10:24:29 --> 10:24:32
+Giacomo Satoru Quintili: Okay, this is one.
+
+10:24:32 --> 10:24:33
+Giacomo Satoru Quintili: Two.
+
+10:24:33 --> 10:24:34
+Giacomo Satoru Quintili: 3, 4.
+
+10:24:34 --> 10:24:38
+Giacomo Satoru Quintili: 4. How many of them in one second?
+
+10:24:38 --> 10:24:42
+Giacomo Satoru Quintili: So, frequency is measurement of the number of cycles.
+
+10:24:50 --> 10:24:52
+Giacomo Satoru Quintili: per second.
+
+10:24:52 --> 10:24:55
+Giacomo Satoru Quintili: And it is measured in Hertz.
+
+10:24:56 --> 10:24:59
+Giacomo Satoru Quintili: In short, capital H.
+
+10:24:59 --> 10:25:00
+Giacomo Satoru Quintili: Z.
+
+10:25:04 --> 10:25:08
+Giacomo Satoru Quintili: This cannot be questioned unless you cannot count.
+
+10:25:08 --> 10:25:10
+Giacomo Satoru Quintili: Right?
+
+10:25:14 --> 10:25:16
+Giacomo Satoru Quintili: Remember.
+
+10:25:16 --> 10:25:17
+Giacomo Satoru Quintili: Objective.
+
+10:25:18 --> 10:25:21
+Giacomo Satoru Quintili: objective parameters.
+
+10:25:21 --> 10:25:24
+Giacomo Satoru Quintili: causes the subjective ones.
+
+10:25:26 --> 10:25:30
+Giacomo Satoru Quintili: Okay, this is a more conceptual thing.
+
+10:25:30 --> 10:25:36
+Giacomo Satoru Quintili: The objective reality is the reason why we have the subjective ones.
+
+10:25:37 --> 10:25:46
+Giacomo Satoru Quintili: the perceived pitch is high BECAUSE the frequency is high.
+
+10:25:46 --> 10:25:48
+Giacomo Satoru Quintili: Not vice versa.
+
+10:25:49 --> 10:25:51
+Giacomo Satoru Quintili: Does it make sense?
+
+10:25:57 --> 10:25:59
+Giacomo Satoru Quintili: are the cause.
+
+10:25:59 --> 10:26:01
+Giacomo Satoru Quintili: of the subjective ones.
+
+10:26:03 --> 10:26:07
+Giacomo Satoru Quintili: They explain the reason of the subjective ones.
+
+10:26:21 --> 10:26:23
+Giacomo Satoru Quintili: Same goes for the volume.
+
+10:26:24 --> 10:26:26
+Giacomo Satoru Quintili: The volume is loud.
+
+10:26:26 --> 10:26:32
+Giacomo Satoru Quintili: Because the amplitude of the phenomenon is high.
+
+10:26:33 --> 10:26:38
+Giacomo Satoru Quintili: How much high? That's subjective. Interpretation.
+
+10:26:38 --> 10:26:40
+Giacomo Satoru Quintili: How much? Hi.
+
+10:26:40 --> 10:26:42
+Giacomo Satoru Quintili: Okay.
+
+10:26:44 --> 10:26:46
+Giacomo Satoru Quintili: So far so good?
+
+10:26:47 --> 10:26:56
+Giacomo Satoru Quintili: Nice, let's move on. So, the rest is simple, I mean, except for timber, which is a little bit weird. So, volume. Yes, go ahead.
+
+10:26:53 --> 10:26:55
+Daniel Bradarić: Sorry.
+
+10:26:55 --> 10:26:58
+Daniel Bradarić: So the volume…
+
+10:26:58 --> 10:27:01
+Daniel Bradarić: It will be… How tall is…
+
+10:27:01 --> 10:27:03
+Daniel Bradarić: The way.
+
+10:27:01 --> 10:27:04
+Giacomo Satoru Quintili: Brava, correct, you see?
+
+10:27:03 --> 10:27:04
+Daniel Bradarić: Okay.
+
+10:27:04 --> 10:27:17
+Giacomo Satoru Quintili: The volume is the perception of the loudness of a sound, and this is caused… the volume is caused by the objective measurement, which is how tall is the wave.
+
+10:27:17 --> 10:27:21
+Giacomo Satoru Quintili: That's it. Let's write it down. Okay. So volume.
+
+10:27:21 --> 10:27:25
+Giacomo Satoru Quintili: I mean, that's pretty obvious, but must be written.
+
+10:27:25 --> 10:27:27
+Giacomo Satoru Quintili: Perception.
+
+10:27:27 --> 10:27:31
+Giacomo Satoru Quintili: Personal, sorry. Personal interpretation.
+
+10:27:32 --> 10:27:36
+Giacomo Satoru Quintili: It's a judgment, okay? Personal interpretation.
+
+10:27:36 --> 10:27:37
+Giacomo Satoru Quintili: of…
+
+10:27:37 --> 10:27:39
+Giacomo Satoru Quintili: How loud!
+
+10:27:43 --> 10:27:46
+Giacomo Satoru Quintili: A sound is.
+
+10:27:48 --> 10:27:49
+Giacomo Satoru Quintili: No.
+
+10:27:50 --> 10:27:56
+Giacomo Satoru Quintili: No need for further explanation. Let's see the objective amplitude.
+
+10:28:00 --> 10:28:06
+Giacomo Satoru Quintili: What do we measure in the amplitude? Well, measurement…
+
+10:28:06 --> 10:28:08
+Giacomo Satoru Quintili: of the…
+
+10:28:08 --> 10:28:13
+Giacomo Satoru Quintili: Y-axis, we could say. Y-axis, if we want to be nerds.
+
+10:28:13 --> 10:28:18
+Giacomo Satoru Quintili: Otherwise, how tall is the oscillation?
+
+10:28:18 --> 10:28:20
+Giacomo Satoru Quintili: How tall is the curve? Okay.
+
+10:28:22 --> 10:28:26
+Giacomo Satoru Quintili: How tall is the oscillation?
+
+10:28:28 --> 10:28:30
+Giacomo Satoru Quintili: This is the…
+
+10:28:30 --> 10:28:36
+Giacomo Satoru Quintili: The poor way to say it, this is the correct way to say it.
+
+10:28:36 --> 10:28:38
+Giacomo Satoru Quintili: measurement of the UI axis.
+
+10:28:40 --> 10:28:42
+Giacomo Satoru Quintili: So basically this.
+
+10:28:43 --> 10:28:45
+Giacomo Satoru Quintili: scientific way.
+
+10:28:45 --> 10:28:48
+Giacomo Satoru Quintili: So, taller!
+
+10:28:48 --> 10:28:51
+Giacomo Satoru Quintili: Big amplitude. Big amplitude, most likely big volume.
+
+10:28:52 --> 10:28:53
+Giacomo Satoru Quintili: Okay.
+
+10:28:53 --> 10:29:00
+Giacomo Satoru Quintili: What's the measurement, I mean, the unit of measurement? There are so many. Multiple…
+
+10:29:00 --> 10:29:03
+Giacomo Satoru Quintili: Unit of measurements.
+
+10:29:05 --> 10:29:10
+Giacomo Satoru Quintili: A lot. A lot. Just stick to 1 dB decibels.
+
+10:29:13 --> 10:29:15
+Giacomo Satoru Quintili: Okay?
+
+10:29:17 --> 10:29:20
+Giacomo Satoru Quintili: You probably already heard of DB, okay?
+
+10:29:21 --> 10:29:31
+Giacomo Satoru Quintili: Now, do you need to delve deeper into this? No, no. That's for technicians, okay? Sound engineers and stuff. You're not a sound engineer.
+
+10:29:31 --> 10:29:34
+Giacomo Satoru Quintili: So just stick to decibels for now.
+
+10:29:34 --> 10:29:35
+Giacomo Satoru Quintili: Okay.
+
+10:29:37 --> 10:29:43
+Giacomo Satoru Quintili: Uh, know that there are many, many types of decibels, like, um…
+
+10:29:43 --> 10:29:49
+Giacomo Satoru Quintili: acoustic decibels, um, digital decibels, DBFS.
+
+10:29:49 --> 10:29:52
+Giacomo Satoru Quintili: DB SPL, DB A, DB B.
+
+10:29:52 --> 10:30:01
+Giacomo Satoru Quintili: uh, psychoacoustic, uh, decibels, and so… there are so many, okay? So just stick to decibels.
+
+10:30:01 --> 10:30:03
+Giacomo Satoru Quintili: Next.
+
+10:30:05 --> 10:30:06
+Giacomo Satoru Quintili: Timber.
+
+10:30:08 --> 10:30:10
+Giacomo Satoru Quintili: Timber…
+
+10:30:10 --> 10:30:12
+Giacomo Satoru Quintili: You already heard this.
+
+10:30:12 --> 10:30:13
+Giacomo Satoru Quintili: Right?
+
+10:30:13 --> 10:30:17
+Giacomo Satoru Quintili: This term, timber, is very important.
+
+10:30:17 --> 10:30:20
+Giacomo Satoru Quintili: Probably you, uh…
+
+10:30:20 --> 10:30:25
+Giacomo Satoru Quintili: You already have an idea of what the timber is. Hmm.
+
+10:30:27 --> 10:30:32
+Giacomo Satoru Quintili: Now, we don't have time, sadly, to, uh…
+
+10:30:32 --> 10:30:40
+Giacomo Satoru Quintili: ask, uh, what do you think, what is timber, and reason together. There's literally no time for this lesson, too bad.
+
+10:30:40 --> 10:30:47
+Giacomo Satoru Quintili: So I'm just gonna say it. The timbre is basically the personal interpretation of the character of a sound.
+
+10:30:57 --> 10:31:03
+Giacomo Satoru Quintili: What do I mean by character? I mean, how a sound sounds like, basically.
+
+10:31:09 --> 10:31:14
+Giacomo Satoru Quintili: Okay. Timber allows you to do two things.
+
+10:31:21 --> 10:31:24
+Giacomo Satoru Quintili: If you think about it, right? First.
+
+10:31:25 --> 10:31:28
+Giacomo Satoru Quintili: Timber allows us to recognize.
+
+10:31:30 --> 10:31:33
+Giacomo Satoru Quintili: A sorts. Sorts.
+
+10:31:34 --> 10:31:38
+Giacomo Satoru Quintili: For example, the guitar timber.
+
+10:31:39 --> 10:31:41
+Giacomo Satoru Quintili: Timber of a guitar.
+
+10:31:42 --> 10:31:45
+Giacomo Satoru Quintili: The timbre of a voice.
+
+10:31:46 --> 10:31:48
+Giacomo Satoru Quintili: The timbre of a trumpet.
+
+10:31:49 --> 10:31:51
+Giacomo Satoru Quintili: Right?
+
+10:31:51 --> 10:31:55
+Giacomo Satoru Quintili: You hear the sound and you immediately say, oh, that's a violin.
+
+10:31:56 --> 10:31:59
+Giacomo Satoru Quintili: All right, so that's thanks to the timber.
+
+10:32:03 --> 10:32:05
+Giacomo Satoru Quintili: Mm, so far so good.
+
+10:32:05 --> 10:32:07
+Giacomo Satoru Quintili: You resonate.
+
+10:32:07 --> 10:32:13
+Giacomo Satoru Quintili: What's the second one, though? The second one, timber. Timber allows us to…
+
+10:32:13 --> 10:32:18
+Giacomo Satoru Quintili: give an adjective, a judgment on a sound.
+
+10:32:21 --> 10:32:23
+Giacomo Satoru Quintili: Up.
+
+10:32:23 --> 10:32:25
+Giacomo Satoru Quintili: To give a.
+
+10:32:26 --> 10:32:28
+Giacomo Satoru Quintili: Adjective.
+
+10:32:28 --> 10:32:34
+Giacomo Satoru Quintili: to a sound. For example, what do I mean by that? Well, think about it. A warm sound.
+
+10:32:35 --> 10:32:38
+Giacomo Satoru Quintili: A harsh sound.
+
+10:32:43 --> 10:32:44
+Giacomo Satoru Quintili: a…
+
+10:32:46 --> 10:32:56
+Giacomo Satoru Quintili: Gritty, because sometimes we hear these weird words, gritty sound, gritty vocals, right? Any other idea?
+
+10:32:59 --> 10:33:02
+Giacomo Satoru Quintili: Harsh. Have you ever heard of harsh?
+
+10:33:02 --> 10:33:05
+Giacomo Satoru Quintili: Uh, sound, you know?
+
+10:33:05 --> 10:33:09
+Giacomo Satoru Quintili: What do you think? Any other idea in your experience, past experience?
+
+10:33:10 --> 10:33:12
+Giacomo Satoru Quintili: I'm curious.
+
+10:33:13 --> 10:33:16
+travismorgado: Brights Breatsund.
+
+10:33:15 --> 10:33:19
+Giacomo Satoru Quintili: A bright sound, yeah, for example, yeah, yeah, yeah.
+
+10:33:20 --> 10:33:25
+Giacomo Satoru Quintili: Yep. Right. Yeah. You see? So timber.
+
+10:33:28 --> 10:33:34
+Giacomo Satoru Quintili: Timber, it's how a sound sounds like, right? You recognize a sound.
+
+10:33:35 --> 10:33:37
+Giacomo Satoru Quintili: Or you judge it.
+
+10:33:39 --> 10:33:41
+Giacomo Satoru Quintili: Okay.
+
+10:33:41 --> 10:33:45
+Giacomo Satoru Quintili: Muddy. A muddy mix. How many times?
+
+10:33:46 --> 10:33:48
+Giacomo Satoru Quintili: So far so good.
+
+10:33:48 --> 10:33:50
+Giacomo Satoru Quintili: Easy.
+
+10:33:50 --> 10:33:58
+Giacomo Satoru Quintili: Now, the hard part. The objective one. Eh, that's pretty hard. I mean, harder, compared to the other ones.
+
+10:33:58 --> 10:34:05
+Giacomo Satoru Quintili: But not… let's not make it too complicated, okay? What is that causes the timber?
+
+10:34:07 --> 10:34:08
+Giacomo Satoru Quintili: What?
+
+10:34:08 --> 10:34:10
+Giacomo Satoru Quintili: causes the timber.
+
+10:34:11 --> 10:34:14
+Giacomo Satoru Quintili: Is actually 2 things.
+
+10:34:22 --> 10:34:23
+Giacomo Satoru Quintili: No.
+
+10:34:23 --> 10:34:25
+Giacomo Satoru Quintili: First, st.
+
+10:34:25 --> 10:34:31
+Giacomo Satoru Quintili: Ah, and by the way, these are two measurements, different measurements, but both.
+
+10:34:32 --> 10:34:36
+Giacomo Satoru Quintili: are the reason why the timbre sounds the way it sounds.
+
+10:34:36 --> 10:34:39
+Giacomo Satoru Quintili: Okay, first is the waveform.
+
+10:34:40 --> 10:34:43
+Giacomo Satoru Quintili: The shape of the oscillation.
+
+10:34:47 --> 10:34:49
+Giacomo Satoru Quintili: This is what causes the timber.
+
+10:34:53 --> 10:34:57
+Giacomo Satoru Quintili: Okay? So, for example, this…
+
+10:34:58 --> 10:35:00
+Giacomo Satoru Quintili: It's a sine wave.
+
+10:35:00 --> 10:35:03
+Giacomo Satoru Quintili: Sine wave is called.
+
+10:35:05 --> 10:35:07
+Giacomo Satoru Quintili: Which is different.
+
+10:35:07 --> 10:35:10
+Giacomo Satoru Quintili: Then, for example.
+
+10:35:13 --> 10:35:14
+Giacomo Satoru Quintili: This.
+
+10:35:18 --> 10:35:20
+Giacomo Satoru Quintili: Zoom different shape.
+
+10:35:22 --> 10:35:31
+Giacomo Satoru Quintili: Just remember, different waveform, wave form, shape of the wave, then you have a different timbre.
+
+10:35:32 --> 10:35:34
+Giacomo Satoru Quintili: You have a different timber.
+
+10:35:35 --> 10:35:38
+Giacomo Satoru Quintili: Let's listen to it real quick.
+
+10:35:38 --> 10:35:40
+Giacomo Satoru Quintili: So this sounds like this.
+
+10:35:43 --> 10:35:44
+Giacomo Satoru Quintili: No.
+
+10:35:44 --> 10:35:49
+Giacomo Satoru Quintili: While the before, it sounded like this.
+
+10:35:49 --> 10:35:52
+Giacomo Satoru Quintili: Which is barely audible.
+
+10:35:52 --> 10:35:54
+Giacomo Satoru Quintili: Let me increase the pitch.
+
+10:35:56 --> 10:35:58
+Giacomo Satoru Quintili: or the frequency.
+
+10:35:59 --> 10:36:00
+Giacomo Satoru Quintili: 1,000.
+
+10:36:10 --> 10:36:11
+Giacomo Satoru Quintili: Whatever.
+
+10:36:12 --> 10:36:15
+Giacomo Satoru Quintili: Okay. This is a sine wave.
+
+10:36:17 --> 10:36:20
+Giacomo Satoru Quintili: And after I'm going to generate a.
+
+10:36:23 --> 10:36:24
+Giacomo Satoru Quintili: Sawtooth.
+
+10:36:26 --> 10:36:27
+Giacomo Satoru Quintili: Same frequency.
+
+10:36:32 --> 10:36:34
+Giacomo Satoru Quintili: Okay. Timber.
+
+10:36:34 --> 10:36:38
+Giacomo Satoru Quintili: Because they have different waveforms.
+
+10:36:39 --> 10:36:40
+Giacomo Satoru Quintili: Okay?
+
+10:36:41 --> 10:36:48
+Giacomo Satoru Quintili: So, when you have a oscillator, an oscillator like this, know that an easy way to change timber.
+
+10:36:48 --> 10:36:54
+Giacomo Satoru Quintili: So, basically, change the instrument, we could say. Okay, it's just changing this.
+
+10:36:56 --> 10:36:58
+Giacomo Satoru Quintili: Okay.
+
+10:37:00 --> 10:37:03
+Giacomo Satoru Quintili: For example, for a…
+
+10:37:03 --> 10:37:08
+Giacomo Satoru Quintili: Those who play a guitar. Is there anybody who plays the guitar here?
+
+10:37:08 --> 10:37:16
+Giacomo Satoru Quintili: Okay, an easy way to change the timbre of your guitar is by switching the pickup.
+
+10:37:16 --> 10:37:25
+Giacomo Satoru Quintili: Right? That's similar. That is similar, because you change the microphone, so you change the way the wave is captured.
+
+10:37:25 --> 10:37:38
+Giacomo Satoru Quintili: It's just like changing the waveform of an oscillator. When you… when you switch pickup, this is what… basically similar of what you're doing, not the same thing, of course. You're changing microphone, it's another thing.
+
+10:37:38 --> 10:37:41
+Giacomo Satoru Quintili: Okay, so you're changing the timber.
+
+10:37:41 --> 10:37:49
+Giacomo Satoru Quintili: Same thing on an oscillator. You want to change the timbre. The best, the most radical way to do it is by changing the waveform.
+
+10:37:51 --> 10:37:58
+Giacomo Satoru Quintili: There are multiple ways to change the timber, and we will see it. For example, cutoff, the type of filter, the pulse width.
+
+10:37:58 --> 10:38:02
+Giacomo Satoru Quintili: Many, many ways. But the most important one…
+
+10:38:02 --> 10:38:05
+Giacomo Satoru Quintili: It's just changed the waveform, bro.
+
+10:38:05 --> 10:38:06
+Giacomo Satoru Quintili: Okay.
+
+10:38:07 --> 10:38:10
+Giacomo Satoru Quintili: Nice. So, first…
+
+10:38:10 --> 10:38:14
+Giacomo Satoru Quintili: Objective parameter of the sound.
+
+10:38:14 --> 10:38:17
+Giacomo Satoru Quintili: Um, I mean, the, the…
+
+10:38:17 --> 10:38:23
+Giacomo Satoru Quintili: The objective parameter of the sound associated to the timber is waveform.
+
+10:38:24 --> 10:38:27
+Giacomo Satoru Quintili: What what are we measuring?
+
+10:38:29 --> 10:38:34
+Giacomo Satoru Quintili: In the waveform we measure, the measurement is the following.
+
+10:38:35 --> 10:38:36
+Giacomo Satoru Quintili: Follow me.
+
+10:38:38 --> 10:38:41
+Giacomo Satoru Quintili: We are measuring.
+
+10:38:42 --> 10:38:44
+Giacomo Satoru Quintili: The amplitude?
+
+10:38:44 --> 10:38:46
+Giacomo Satoru Quintili: Overtime.
+
+10:38:48 --> 10:38:56
+Giacomo Satoru Quintili: So, the waveform is the measurement of how the amplitude of a signal changes over time.
+
+10:39:01 --> 10:39:03
+Giacomo Satoru Quintili: So wait for me.
+
+10:39:04 --> 10:39:06
+Giacomo Satoru Quintili: Measurement.
+
+10:39:07 --> 10:39:08
+Giacomo Satoru Quintili: off.
+
+10:39:09 --> 10:39:13
+Giacomo Satoru Quintili: How? Let, let's write it simple, okay? Of how the amplitude.
+
+10:39:13 --> 10:39:17
+Giacomo Satoru Quintili: changes over time.
+
+10:39:24 --> 10:39:28
+Giacomo Satoru Quintili: How, emphasis on how, okay?
+
+10:39:29 --> 10:39:33
+Giacomo Satoru Quintili: So, if it goes smoothly or jumps instantly.
+
+10:39:42 --> 10:39:51
+Giacomo Satoru Quintili: Depending on how the amplitude changes over time, we have a different waveform, and if we have a different waveform, we have a different timbre.
+
+10:39:52 --> 10:39:54
+Giacomo Satoru Quintili: Simple, no?
+
+10:39:55 --> 10:39:56
+Giacomo Satoru Quintili: Now.
+
+10:39:56 --> 10:40:02
+Giacomo Satoru Quintili: There is another way to measure the timber. I mean…
+
+10:40:02 --> 10:40:04
+Giacomo Satoru Quintili: There's another measurement.
+
+10:40:04 --> 10:40:06
+Giacomo Satoru Quintili: That causes…
+
+10:40:06 --> 10:40:08
+Giacomo Satoru Quintili: The perceived timber.
+
+10:40:08 --> 10:40:09
+Giacomo Satoru Quintili: Game.
+
+10:40:09 --> 10:40:11
+Giacomo Satoru Quintili: The second…
+
+10:40:11 --> 10:40:13
+Giacomo Satoru Quintili: is the spectrum.
+
+10:40:14 --> 10:40:16
+Giacomo Satoru Quintili: The EQ.
+
+10:40:16 --> 10:40:23
+Giacomo Satoru Quintili: I mean, the spectrum is the thing that you see when you open an EQ. Have you ever opened an EQ?
+
+10:40:27 --> 10:40:33
+Giacomo Satoru Quintili: No? Okay, I mean, some people know, but that's okay. Let's take…
+
+10:40:27 --> 10:40:29
+travismorgado: Jersey.
+
+10:40:33 --> 10:40:36
+Giacomo Satoru Quintili: a random…
+
+10:40:36 --> 10:40:39
+Giacomo Satoru Quintili: No, this is just one null.
+
+10:40:40 --> 10:40:44
+Giacomo Satoru Quintili: Just take a random loop, hmm?
+
+10:40:46 --> 10:40:47
+Giacomo Satoru Quintili: Ah, this one.
+
+10:40:49 --> 10:40:52
+Giacomo Satoru Quintili: It's random. Okay.
+
+10:40:52 --> 10:40:54
+Giacomo Satoru Quintili: Can you hear the sound, by the way?
+
+10:40:55 --> 10:40:56
+Giacomo Satoru Quintili: Let me double check.
+
+10:40:56 --> 10:40:59
+Giacomo Satoru Quintili: Settings. Audio.
+
+10:41:00 --> 10:41:05
+Giacomo Satoru Quintili: Flex Azure, yes, you can hear it. Okay, cool. So.
+
+10:41:07 --> 10:41:09
+Giacomo Satoru Quintili: Let me lower it.
+
+10:41:11 --> 10:41:12
+Giacomo Satoru Quintili: Mmhm.
+
+10:41:12 --> 10:41:18
+Giacomo Satoru Quintili: Cool, cool, cool. You see, this, look, on a DAW.
+
+10:41:18 --> 10:41:20
+Giacomo Satoru Quintili: You have a DAW?
+
+10:41:21 --> 10:41:23
+Giacomo Satoru Quintili: Good, huh.
+
+10:41:23 --> 10:41:26
+Giacomo Satoru Quintili: This is the waveform.
+
+10:41:28 --> 10:41:30
+Giacomo Satoru Quintili: So, on a project…
+
+10:41:30 --> 10:41:33
+Giacomo Satoru Quintili: The main thing.
+
+10:41:33 --> 10:41:37
+Giacomo Satoru Quintili: The first thing you see on an audio track.
+
+10:41:37 --> 10:41:39
+Giacomo Satoru Quintili: is literally the waveform.
+
+10:41:40 --> 10:41:41
+Giacomo Satoru Quintili: Okay.
+
+10:41:42 --> 10:41:45
+Giacomo Satoru Quintili: How? The amplitude changes over time.
+
+10:41:46 --> 10:41:50
+Giacomo Satoru Quintili: And we can even judge it. Yeah, this is a square.
+
+10:41:51 --> 10:41:55
+Giacomo Satoru Quintili: That becomes a sine wave. Right. Cool.
+
+10:41:57 --> 10:42:06
+Giacomo Satoru Quintili: But the spectrum is different. The spectrum, which is in the equalizer here, let me take this other one, which I prefer.
+
+10:42:06 --> 10:42:09
+Giacomo Satoru Quintili: Oh, they changed it a little bit.
+
+10:42:09 --> 10:42:10
+Giacomo Satoru Quintili: Uh…
+
+10:42:11 --> 10:42:13
+Giacomo Satoru Quintili: The spectrum…
+
+10:42:13 --> 10:42:15
+Giacomo Satoru Quintili: is this.
+
+10:42:17 --> 10:42:20
+Giacomo Satoru Quintili: Ah, what's this? What are we measuring?
+
+10:42:20 --> 10:42:27
+Giacomo Satoru Quintili: And if I change the spectrum, look, I mean, look, listen, we're gonna change the perceived timber.
+
+10:42:32 --> 10:42:34
+Giacomo Satoru Quintili: Okay.
+
+10:42:36 --> 10:42:38
+Giacomo Satoru Quintili: The timber changed.
+
+10:42:38 --> 10:42:45
+Giacomo Satoru Quintili: Now it's, we could say we can give an adjective to this. We could say it's thinner.
+
+10:42:47 --> 10:42:51
+Giacomo Satoru Quintili: thinner. See, I'm just judging the timber.
+
+10:42:51 --> 10:42:58
+Giacomo Satoru Quintili: But the reason why it became thinner is because I filtered it, so I changed the spectrum.
+
+10:43:00 --> 10:43:05
+Giacomo Satoru Quintili: Okay, so this is the spectrum is another way.
+
+10:43:05 --> 10:43:11
+Giacomo Satoru Quintili: to see the timber, basically. What are we measuring?
+
+10:43:11 --> 10:43:12
+Giacomo Satoru Quintili: Well…
+
+10:43:12 --> 10:43:17
+Giacomo Satoru Quintili: Here is different. We are not measuring…
+
+10:43:17 --> 10:43:19
+Giacomo Satoru Quintili: The same thing.
+
+10:43:19 --> 10:43:27
+Giacomo Satoru Quintili: I mean, we are measuring the same signal, the same phenomenon, but using a different lens.
+
+10:43:28 --> 10:43:29
+Giacomo Satoru Quintili: Umm.
+
+10:43:29 --> 10:43:35
+Giacomo Satoru Quintili: On the spectrum, we visualize on X and Y graphs.
+
+10:43:36 --> 10:43:38
+Giacomo Satoru Quintili: The.
+
+10:43:38 --> 10:43:41
+Giacomo Satoru Quintili: amplitude.
+
+10:43:41 --> 10:43:44
+Giacomo Satoru Quintili: of each sine wave.
+
+10:43:47 --> 10:43:49
+Giacomo Satoru Quintili: Let me repeat.
+
+10:43:52 --> 10:43:54
+Giacomo Satoru Quintili: Spectrum.
+
+10:43:55 --> 10:43:57
+Giacomo Satoru Quintili: Measurement.
+
+10:43:57 --> 10:43:59
+Giacomo Satoru Quintili: of the amplitude.
+
+10:43:59 --> 10:44:01
+Giacomo Satoru Quintili: of each.
+
+10:44:03 --> 10:44:05
+Giacomo Satoru Quintili: Sine wave.
+
+10:44:07 --> 10:44:08
+Giacomo Satoru Quintili: Contained.
+
+10:44:11 --> 10:44:12
+Giacomo Satoru Quintili: Within…
+
+10:44:13 --> 10:44:16
+Giacomo Satoru Quintili: A sound. Because Flash News…
+
+10:44:20 --> 10:44:24
+Giacomo Satoru Quintili: Breaking news from the A.
+
+10:44:24 --> 10:44:26
+Giacomo Satoru Quintili: 19th century.
+
+10:44:26 --> 10:44:33
+Giacomo Satoru Quintili: Uh, if you didn't know, every sound is made by an infinite number of sine waves.
+
+10:44:44 --> 10:44:48
+Giacomo Satoru Quintili: So sine waves are like the atoms of the sound.
+
+10:44:48 --> 10:44:50
+Giacomo Satoru Quintili: The building blocks.
+
+10:44:56 --> 10:45:00
+Giacomo Satoru Quintili: So what do we measure with the spectrum? We try to measure.
+
+10:45:00 --> 10:45:06
+Giacomo Satoru Quintili: We measure the amplitude of each sine wave.
+
+10:45:14 --> 10:45:16
+Giacomo Satoru Quintili: Let's take…
+
+10:45:18 --> 10:45:21
+Giacomo Satoru Quintili: a sawtooth as a reference.
+
+10:45:28 --> 10:45:29
+Giacomo Satoru Quintili: Then you update.
+
+10:45:30 --> 10:45:33
+Giacomo Satoru Quintili: My muscle memory still needs to develop.
+
+10:45:35 --> 10:45:39
+Giacomo Satoru Quintili: They changed the arrangement, and my muscle memory is…
+
+10:45:41 --> 10:45:43
+Giacomo Satoru Quintili: sabotaging me. Anyway…
+
+10:45:43 --> 10:45:46
+Giacomo Satoru Quintili: Now I'm going to take a sawtooth.
+
+10:45:47 --> 10:45:52
+Giacomo Satoru Quintili: And we are going to see, analyze its spectral content.
+
+10:45:53 --> 10:45:57
+Giacomo Satoru Quintili: I probably already showed you this, I don't remember, I'm old.
+
+10:45:58 --> 10:46:02
+Giacomo Satoru Quintili: Tell me if you're if you if I already showed you this.
+
+10:46:03 --> 10:46:04
+Giacomo Satoru Quintili: Please.
+
+10:46:08 --> 10:46:10
+Giacomo Satoru Quintili: Frequency.
+
+10:46:14 --> 10:46:16
+Giacomo Satoru Quintili: Mmhm. Mmh.
+
+10:46:17 --> 10:46:19
+Giacomo Satoru Quintili: Oof, so annoying.
+
+10:46:19 --> 10:46:22
+Giacomo Satoru Quintili: Let me go one octave higher.
+
+10:46:22 --> 10:46:24
+Giacomo Satoru Quintili: Yeah, like this, yeah.
+
+10:46:26 --> 10:46:28
+Giacomo Satoru Quintili: And let's also change.
+
+10:46:28 --> 10:46:30
+Giacomo Satoru Quintili: The frequency a bit.
+
+10:46:33 --> 10:46:35
+Giacomo Satoru Quintili: Frequency.
+
+10:46:35 --> 10:46:39
+Giacomo Satoru Quintili: Hi, you see? I mean, let's also listen to it.
+
+10:46:40 --> 10:46:42
+Giacomo Satoru Quintili: See, but you're annoying.
+
+10:46:42 --> 10:46:45
+Giacomo Satoru Quintili: Okay, barely. Okay, let's move.
+
+10:46:46 --> 10:46:48
+Giacomo Satoru Quintili: I'm changing the frequency, by the way.
+
+10:46:48 --> 10:46:51
+Giacomo Satoru Quintili: Okay, you see? 100 hertz.
+
+10:46:55 --> 10:46:57
+Giacomo Satoru Quintili: This is a sawtooth.
+
+10:46:59 --> 10:47:05
+Giacomo Satoru Quintili: More details. I will repeat this example.
+
+10:47:05 --> 10:47:09
+Giacomo Satoru Quintili: In the next lesson, when we will do the VCF, the filter.
+
+10:47:11 --> 10:47:13
+Giacomo Satoru Quintili: But listen.
+
+10:47:14 --> 10:47:17
+Giacomo Satoru Quintili: I filtered the whole thing.
+
+10:47:17 --> 10:47:19
+Giacomo Satoru Quintili: And now we only have this.
+
+10:47:21 --> 10:47:22
+Giacomo Satoru Quintili: Which is…
+
+10:47:23 --> 10:47:27
+Giacomo Satoru Quintili: Let's see, an oscilloscope.
+
+10:47:27 --> 10:47:29
+Giacomo Satoru Quintili: Using an oscilloscope.
+
+10:47:29 --> 10:47:32
+Giacomo Satoru Quintili: Which allows us to visualize, guess what?
+
+10:47:32 --> 10:47:34
+Giacomo Satoru Quintili: the waveform.
+
+10:47:38 --> 10:47:48
+Giacomo Satoru Quintili: What I'm telling you… why am I doing this? I'm telling… I'm showing you this to demonstrate that every sound is made by an infinite number of sine waves.
+
+10:47:48 --> 10:47:50
+Giacomo Satoru Quintili: We had.
+
+10:47:51 --> 10:47:54
+Giacomo Satoru Quintili: It is very, uh…
+
+10:47:54 --> 10:47:55
+Giacomo Satoru Quintili: Fool.
+
+10:47:56 --> 10:47:58
+Giacomo Satoru Quintili: Sound. Oop.
+
+10:48:00 --> 10:48:02
+Giacomo Satoru Quintili: Let me arrange.
+
+10:48:02 --> 10:48:04
+Giacomo Satoru Quintili: Like this.
+
+10:48:06 --> 10:48:08
+Giacomo Satoru Quintili: Okay.
+
+10:48:14 --> 10:48:17
+Giacomo Satoru Quintili: And as you can see, we have a sawtooth.
+
+10:48:17 --> 10:48:18
+Giacomo Satoru Quintili: Right?
+
+10:48:18 --> 10:48:20
+Giacomo Satoru Quintili: This is a sawtooth.
+
+10:48:21 --> 10:48:23
+Giacomo Satoru Quintili: And…
+
+10:48:23 --> 10:48:29
+Giacomo Satoru Quintili: Here we have multiple mountains, we could say. You see peaks.
+
+10:48:29 --> 10:48:33
+Giacomo Satoru Quintili: These peaks are sine waves.
+
+10:48:36 --> 10:48:41
+Giacomo Satoru Quintili: If I remove all of them, and I leave only one, you'll see that we get a sine wave.
+
+10:48:44 --> 10:48:47
+Giacomo Satoru Quintili: Let me isolate the second one.
+
+10:48:50 --> 10:48:52
+Giacomo Satoru Quintili: Let's make it linear.
+
+10:48:54 --> 10:48:56
+Giacomo Satoru Quintili: I'm gonna isolate the second one.
+
+10:49:00 --> 10:49:01
+Giacomo Satoru Quintili: Ben the Third.
+
+10:49:03 --> 10:49:10
+Giacomo Satoru Quintili: L'obiettivo.
+
+10:49:04 --> 10:49:07
+Giacomo Satoru Quintili: You see, they are all sine waves, that's what I'm saying.
+
+10:49:09 --> 10:49:12
+Giacomo Satoru Quintili: Okay? So…
+
+10:49:14 --> 10:49:17
+Giacomo Satoru Quintili: Every sound is built.
+
+10:49:17 --> 10:49:20
+Giacomo Satoru Quintili: By an infinite number of sine waves.
+
+10:49:20 --> 10:49:28
+Giacomo Satoru Quintili: If you stack them together, eventually, you get the final spectrum, and therefore the final timber.
+
+10:49:29 --> 10:49:31
+Giacomo Satoru Quintili: You see?
+
+10:49:39 --> 10:49:40
+Giacomo Satoru Quintili: End result.
+
+10:49:47 --> 10:49:49
+Giacomo Satoru Quintili: Fundamental frequency.
+
+10:49:49 --> 10:49:51
+Giacomo Satoru Quintili: Second harmonic.
+
+10:49:51 --> 10:49:53
+Giacomo Satoru Quintili: Third harmonic.
+
+10:49:53 --> 10:49:56
+Giacomo Satoru Quintili: overtones. Fourth.
+
+10:49:57 --> 10:49:59
+Giacomo Satoru Quintili: Fifth.
+
+10:49:59 --> 10:50:01
+Giacomo Satoru Quintili: Sixth.
+
+10:50:02 --> 10:50:04
+Giacomo Satoru Quintili: Okay.
+
+10:50:05 --> 10:50:09
+Giacomo Satoru Quintili: This is just science. This is just physics.
+
+10:50:12 --> 10:50:13
+Giacomo Satoru Quintili: Does it make sense?
+
+10:50:14 --> 10:50:19
+Giacomo Satoru Quintili: Nice. So, in the spectrum, we…
+
+10:50:19 --> 10:50:23
+Giacomo Satoru Quintili: Analyze the amplitude of each of these sine waves.
+
+10:50:31 --> 10:50:33
+Giacomo Satoru Quintili: So far, so good?
+
+10:50:34 --> 10:50:36
+Giacomo Satoru Quintili: What causes the timber?
+
+10:50:36 --> 10:50:39
+Giacomo Satoru Quintili: In terms of spectrum.
+
+10:50:39 --> 10:50:40
+Giacomo Satoru Quintili: the balance.
+
+10:50:40 --> 10:50:43
+Giacomo Satoru Quintili: And, actually, two things.
+
+10:50:43 --> 10:50:49
+Giacomo Satoru Quintili: which sine waves, uh, the frequency of the sine waves, hmm? So, timber is caused…
+
+10:50:50 --> 10:50:52
+Giacomo Satoru Quintili: By tooth factors.
+
+10:50:53 --> 10:50:57
+Giacomo Satoru Quintili: when we speak about spectrum, okay?
+
+10:50:58 --> 10:50:59
+Giacomo Satoru Quintili: WAP.
+
+10:50:59 --> 10:51:01
+Giacomo Satoru Quintili: Frequency.
+
+10:51:02 --> 10:51:05
+Giacomo Satoru Quintili: Now, what's the frequency?
+
+10:51:06 --> 10:51:09
+Giacomo Satoru Quintili: of the sine waves.
+
+10:51:10 --> 10:51:13
+Giacomo Satoru Quintili: So basically, what sine waves are there?
+
+10:51:22 --> 10:51:25
+Giacomo Satoru Quintili: Some there might not be, right?
+
+10:51:25 --> 10:51:33
+Giacomo Satoru Quintili: So, what's the frequency of the sine waves? What sine waves are there, and what's… what are not there, right? First…
+
+10:51:33 --> 10:51:35
+Giacomo Satoru Quintili: Second, the balance.
+
+10:51:38 --> 10:51:43
+Giacomo Satoru Quintili: The, the, the balance of the amplitude of their amplitude.
+
+10:51:43 --> 10:51:46
+Giacomo Satoru Quintili: Okay, the balance of their amplitude.
+
+10:51:54 --> 10:52:02
+Giacomo Satoru Quintili: I did it just like before, right? If I remove these, I am disrupting the balance, I'm changing it.
+
+10:52:02 --> 10:52:07
+Giacomo Satoru Quintili: I'm changing the balance. And then I have a different waveform, and a different timber.
+
+10:52:08 --> 10:52:09
+Giacomo Satoru Quintili: This is different then.
+
+10:52:09 --> 10:52:11
+Giacomo Satoru Quintili: this.
+
+10:52:12 --> 10:52:15
+Giacomo Satoru Quintili: I mean, I beg you to disagree.
+
+10:52:16 --> 10:52:27
+Giacomo Satoru Quintili: I will call you crazy. No, jokes aside, uh, you know what I mean? Maybe some people don't hear very high frequencies, then, then, yes, they could say, oh, well, they're the same.
+
+10:52:28 --> 10:52:30
+Giacomo Satoru Quintili: Right.
+
+10:52:32 --> 10:52:34
+Giacomo Satoru Quintili: Like this.
+
+10:52:35 --> 10:52:39
+Giacomo Satoru Quintili: Maybe here you could say, oh, there's no change, right?
+
+10:52:41 --> 10:52:46
+Giacomo Satoru Quintili: perception… on a perception level, you say, oh, well, there's no change.
+
+10:52:46 --> 10:52:48
+Giacomo Satoru Quintili: Doesn't make sense.
+
+10:52:48 --> 10:52:50
+Giacomo Satoru Quintili: Anyway.
+
+10:52:51 --> 10:52:53
+Giacomo Satoru Quintili: That's it. You need to study.
+
+10:52:53 --> 10:52:58
+Giacomo Satoru Quintili: You need to study, uh, this is, uh, knowledge.
+
+10:52:58 --> 10:53:00
+Giacomo Satoru Quintili: for a professional.
+
+10:53:00 --> 10:53:03
+Giacomo Satoru Quintili: Um, professional musician.
+
+10:53:04 --> 10:53:08
+Giacomo Satoru Quintili: You will do a very good…
+
+10:53:08 --> 10:53:20
+Giacomo Satoru Quintili: image of yourself, if you present yourself to the studio, and know exactly what a spectrum is, what a waveform is, what's the difference, uh… you will look like to be more reliable, so for…
+
+10:53:20 --> 10:53:22
+Giacomo Satoru Quintili: No? Social…
+
+10:53:22 --> 10:53:27
+Giacomo Satoru Quintili: Reliability. But also you can intervene.
+
+10:53:28 --> 10:53:30
+Giacomo Satoru Quintili: Uh, more precisely.
+
+10:53:30 --> 10:53:32
+Giacomo Satoru Quintili: Okay.
+
+10:53:32 --> 10:53:38
+Giacomo Satoru Quintili: You will be able to communicate your needs, artistic needs better.
+
+10:53:38 --> 10:53:43
+Giacomo Satoru Quintili: With a producer, if you just… otherwise you're just too confused.
+
+10:53:43 --> 10:53:53
+Giacomo Satoru Quintili: And you say, I don't know this sound, I don't know, I don't like this sound. And you cannot say exactly what's wrong. Is it the timbre? Is it the volume?
+
+10:53:54 --> 10:53:59
+Giacomo Satoru Quintili: Right, so learn this stuff to be able to communicate better.
+
+10:53:59 --> 10:54:06
+Giacomo Satoru Quintili: To a sound producer, a sound engineer, a producer.
+
+10:54:06 --> 10:54:07
+Giacomo Satoru Quintili: Umm.
+
+10:54:08 --> 10:54:10
+Giacomo Satoru Quintili: Any question?
+
+10:54:13 --> 10:54:14
+Giacomo Satoru Quintili: All right, so.
+
+10:54:15 --> 10:54:22
+Giacomo Satoru Quintili: Spectrum measurement of the amplitude of each sine wave contained within a sound. So, to be more precise…
+
+10:54:25 --> 10:54:27
+Giacomo Satoru Quintili: Waveform.
+
+10:54:31 --> 10:54:33
+Giacomo Satoru Quintili: X-axis…
+
+10:54:33 --> 10:54:37
+Giacomo Satoru Quintili: We have time, y-axis, we have amplitude.
+
+10:54:41 --> 10:54:42
+Giacomo Satoru Quintili: Spectrum…
+
+10:54:42 --> 10:54:46
+Giacomo Satoru Quintili: X axis, we have frequencies.
+
+10:54:47 --> 10:54:58
+Giacomo Satoru Quintili: So we have a different thing on the x-axis. We don't have time anymore. On the y-axis, we still have amplitude. So we measure the amplitude, how tall is the amplitude, of the frequency.
+
+10:54:58 --> 10:55:02
+Giacomo Satoru Quintili: Here we measure how the amplitude changes over time.
+
+10:55:09 --> 10:55:16
+Giacomo Satoru Quintili: Finally, these are intertwined, so waveform.
+
+10:55:16 --> 10:55:20
+Giacomo Satoru Quintili: waveform, spectrum, and timber.
+
+10:55:20 --> 10:55:24
+Giacomo Satoru Quintili: are intertwined together.
+
+10:55:24 --> 10:55:29
+Giacomo Satoru Quintili: If you change one of them, you change the other two as well.
+
+10:55:41 --> 10:55:53
+Giacomo Satoru Quintili: For example, you change the waveform from your VCO, know that you are changing the perceived timber, yes, but also the spectrum. The spectrum is going to look different.
+
+10:55:55 --> 10:56:05
+Giacomo Satoru Quintili: you filter the spectrum using an EQ, know that you are changing the waveform, the final waveform is gonna change, and the timbre, perceived timbre, is gonna be different.
+
+10:56:05 --> 10:56:08
+Giacomo Satoru Quintili: So these three are linked.
+
+10:56:10 --> 10:56:11
+Giacomo Satoru Quintili: Okay?
+
+10:56:15 --> 10:56:20
+Giacomo Satoru Quintili: Very well. That's it for parameters of the sound.
+
+10:56:20 --> 10:56:33
+Giacomo Satoru Quintili: study, check the PDF, the recap PDF that I will leave you on Classroom in a few days, and also watch this video, lesson video.
+
+10:56:33 --> 10:56:44
+Giacomo Satoru Quintili: if you want to live again the beautiful experience of this lesson. Okay, let's move on with the next topic, which is the VCO.
+
+10:56:44 --> 10:56:46
+Giacomo Satoru Quintili: The oscillator.
+
+10:56:48 --> 10:56:55
+Giacomo Satoru Quintili: Now, oscillator VCO. VCO stands for Voltage Controlled Oscillator.
+
+10:57:07 --> 10:57:09
+Giacomo Satoru Quintili: Now, the BCO…
+
+10:57:09 --> 10:57:13
+Giacomo Satoru Quintili: It belongs to the source category.
+
+10:57:18 --> 10:57:20
+Giacomo Satoru Quintili: module category, right?
+
+10:57:21 --> 10:57:26
+Giacomo Satoru Quintili: sorts, but also automatic control.
+
+10:57:27 --> 10:57:35
+Giacomo Satoru Quintili: Because you can plug a BCO and use it as a like a crazy LFO. It's not an LFO anymore. It's super fast.
+
+10:57:35 --> 10:57:39
+Giacomo Satoru Quintili: Okay? So mainly it's a source.
+
+10:57:39 --> 10:57:45
+Giacomo Satoru Quintili: The VCO allows us to change the two parameters of the sound.
+
+10:57:45 --> 10:57:46
+Giacomo Satoru Quintili: Mmhm.
+
+10:57:53 --> 10:57:55
+Giacomo Satoru Quintili: Frequency.
+
+10:57:55 --> 10:57:58
+Giacomo Satoru Quintili: So the perceived note.
+
+10:57:58 --> 10:58:01
+Giacomo Satoru Quintili: And timber, I mean waveform.
+
+10:58:04 --> 10:58:09
+Giacomo Satoru Quintili: So basically, in other words, you can change the pitch and the timbre.
+
+10:58:13 --> 10:58:15
+Giacomo Satoru Quintili: Now.
+
+10:58:19 --> 10:58:23
+Giacomo Satoru Quintili: The VCO, you have to know its parameters.
+
+10:58:23 --> 10:58:29
+Giacomo Satoru Quintili: We have frequency controls, and waveform controls. Many.
+
+10:58:29 --> 10:58:30
+Giacomo Satoru Quintili: Of both.
+
+10:58:30 --> 10:58:33
+Giacomo Satoru Quintili: So let's analyze them, shall we?
+
+10:58:34 --> 10:58:36
+Giacomo Satoru Quintili: Um…
+
+10:58:37 --> 10:58:40
+Giacomo Satoru Quintili: So let's start with the frequency controls.
+
+10:58:42 --> 10:58:45
+Giacomo Satoru Quintili: We have many, many, many, many.
+
+10:58:48 --> 10:58:50
+Giacomo Satoru Quintili: The main one…
+
+10:58:50 --> 10:58:52
+Giacomo Satoru Quintili: I mean, the main one.
+
+10:58:52 --> 10:58:55
+Giacomo Satoru Quintili: It's generic. Hmm?
+
+10:58:57 --> 10:59:04
+Giacomo Satoru Quintili: It's pretty generic, it's just a rotary knob called Tune. Tune, or frequency.
+
+10:59:04 --> 10:59:06
+Giacomo Satoru Quintili: or pitch.
+
+10:59:08 --> 10:59:17
+Giacomo Satoru Quintili: Uh, you can find this one or not, okay? So, I'm just telling you the ones that you can find on a synthesizer.
+
+10:59:17 --> 10:59:25
+Giacomo Satoru Quintili: So expect to see, on a synthesizer, a rotary knob of some sort.
+
+10:59:25 --> 10:59:29
+Giacomo Satoru Quintili: which allows you to change the frequency in Hertz.
+
+10:59:30 --> 10:59:40
+Giacomo Satoru Quintili: Now I'm gonna stop just a moment, uh, I'm just going to interrupt the audio connection, I need to open one software real quick, in 2 seconds.
+
+11:00:02 --> 11:00:04
+Giacomo Satoru Quintili: All right. Can you hear me?
+
+11:00:05 --> 11:00:07
+Giacomo Satoru Quintili: Alright, cool.
+
+11:00:05 --> 11:00:06
+travismorgado: Grazie.
+
+11:00:07 --> 11:00:11
+Giacomo Satoru Quintili: So let's see this.
+
+11:00:11 --> 11:00:13
+Giacomo Satoru Quintili: Here's another software.
+
+11:00:16 --> 11:00:24
+Giacomo Satoru Quintili: I'm just using it because it has a VCO with the parameter I'm talking about, which is this. It's called frequency.
+
+11:00:24 --> 11:00:31
+Giacomo Satoru Quintili: As you can see, it's very generic. It's just a knob that allows you to change the frequency continuously.
+
+11:00:34 --> 11:00:37
+Giacomo Satoru Quintili: Let's plug it to the output.
+
+11:00:37 --> 11:00:40
+Giacomo Satoru Quintili: Youtube.
+
+11:00:41 --> 11:00:43
+Giacomo Satoru Quintili: To be very generic.
+
+11:00:44 --> 11:00:45
+Giacomo Satoru Quintili: Sono.
+
+11:00:46 --> 11:00:49
+Giacomo Satoru Quintili: In voltage modular, you don't have this one.
+
+11:00:50 --> 11:00:52
+Giacomo Satoru Quintili: You don't have it, okay?
+
+11:00:52 --> 11:01:01
+Giacomo Satoru Quintili: So, on a modular synthesizer, or more on a modular synthesizer, you can find this main knob called Tune.
+
+11:01:03 --> 11:01:04
+Giacomo Satoru Quintili: Next.
+
+11:01:05 --> 11:01:07
+Giacomo Satoru Quintili: So, what does it do?
+
+11:01:07 --> 11:01:09
+Giacomo Satoru Quintili: It changes…
+
+11:01:09 --> 11:01:11
+Giacomo Satoru Quintili: Uh, the frequency…
+
+11:01:12 --> 11:01:14
+Giacomo Satoru Quintili: By Hertz.
+
+11:01:17 --> 11:01:19
+Giacomo Satoru Quintili: And it has…
+
+11:01:19 --> 11:01:22
+Giacomo Satoru Quintili: a wide range.
+
+11:01:22 --> 11:01:24
+Giacomo Satoru Quintili: Mm, many octaves.
+
+11:01:26 --> 11:01:30
+Giacomo Satoru Quintili: You heard it, right? You could jump the frequency a lot.
+
+11:01:31 --> 11:01:33
+Giacomo Satoru Quintili: By very low.
+
+11:01:36 --> 11:01:40
+Giacomo Satoru Quintili: Very high, right? So, wide range.
+
+11:01:41 --> 11:01:44
+Giacomo Satoru Quintili: And it is generic.
+
+11:01:45 --> 11:01:47
+Giacomo Satoru Quintili: Next!
+
+11:01:49 --> 11:01:55
+Giacomo Satoru Quintili: We have the coarse tune and fine tune, the two.
+
+11:01:55 --> 11:02:02
+Giacomo Satoru Quintili: more and more specific knobs. They are more and more precise, okay? Let's talk about the course tune.
+
+11:02:05 --> 11:02:09
+Giacomo Satoru Quintili: This is very common. Course tune is very common.
+
+11:02:10 --> 11:02:16
+Giacomo Satoru Quintili: It is still a rotary knob or a fader, something that is gradual.
+
+11:02:19 --> 11:02:22
+Giacomo Satoru Quintili: Knob.
+
+11:02:22 --> 11:02:25
+Giacomo Satoru Quintili: Changes the frequency.
+
+11:02:25 --> 11:02:27
+Giacomo Satoru Quintili: Continuously.
+
+11:02:28 --> 11:02:30
+Giacomo Satoru Quintili: Not by steps.
+
+11:02:36 --> 11:02:40
+Giacomo Satoru Quintili: But, it has a narrower…
+
+11:02:42 --> 11:02:44
+Giacomo Satoru Quintili: Range.
+
+11:02:44 --> 11:02:46
+Giacomo Satoru Quintili: Compared to the tune.
+
+11:02:50 --> 11:02:56
+Giacomo Satoru Quintili: Narrower, meaning that you don't have many octaves.
+
+11:02:56 --> 11:02:58
+Giacomo Satoru Quintili: You usually are within one octave.
+
+11:02:59 --> 11:03:00
+Giacomo Satoru Quintili: Okay.
+
+11:03:05 --> 11:03:13
+Giacomo Satoru Quintili: So the knob doesn't allow you to jump in different octaves. You are contained within one octave.
+
+11:03:13 --> 11:03:16
+Giacomo Satoru Quintili: Therefore, you are more precise with the knob.
+
+11:03:17 --> 11:03:21
+Giacomo Satoru Quintili: Also, the labels are different.
+
+11:03:24 --> 11:03:29
+Giacomo Satoru Quintili: Hmm. Uh, they measure, they indicate.
+
+11:03:29 --> 11:03:31
+Giacomo Satoru Quintili: The semitones.
+
+11:03:32 --> 11:03:36
+Giacomo Satoru Quintili: Not Hertz. Generic Hertz.
+
+11:03:37 --> 11:03:42
+Giacomo Satoru Quintili: This is why it's very common in synthesizers.
+
+11:03:42 --> 11:03:45
+Giacomo Satoru Quintili: I'll show you some examples.
+
+11:03:46 --> 11:03:48
+Giacomo Satoru Quintili: Uh…
+
+11:03:48 --> 11:03:50
+Giacomo Satoru Quintili: Let's open this one.
+
+11:03:53 --> 11:03:56
+Giacomo Satoru Quintili: Look, oscillator 2 here, you see?
+
+11:03:57 --> 11:04:04
+Giacomo Satoru Quintili: Look at these little numbers here. 1, 3, 5, 7. These are the semitones.
+
+11:04:04 --> 11:04:19
+Giacomo Satoru Quintili: So, you still change the frequency, you still change the frequency in a continuous way, okay? It's not by steps. It's not like you jump one semitone, two semitones, three semitones. It's not by jumps. You still can go in the middle.
+
+11:04:19 --> 11:04:24
+Giacomo Satoru Quintili: But the labels indicate the semitones.
+
+11:04:24 --> 11:04:25
+Giacomo Satoru Quintili: Okay.
+
+11:04:26 --> 11:04:29
+Giacomo Satoru Quintili: So course tune is still continuous.
+
+11:04:29 --> 11:04:34
+Giacomo Satoru Quintili: Not steps, but it indicates the semitones.
+
+11:04:35 --> 11:04:44
+Giacomo Satoru Quintili: What does it do? Well, you can use it for many things. You can use it to slightly detune.
+
+11:04:45 --> 11:04:47
+Giacomo Satoru Quintili: VCOs.
+
+11:04:51 --> 11:04:53
+Giacomo Satoru Quintili: So you get a chorus.
+
+11:04:54 --> 11:04:58
+Giacomo Satoru Quintili: Or you can use it to create chords.
+
+11:05:00 --> 11:05:02
+Giacomo Satoru Quintili: When you have…
+
+11:05:02 --> 11:05:04
+Giacomo Satoru Quintili: Multiple.
+
+11:05:05 --> 11:05:07
+Giacomo Satoru Quintili: VCOs.
+
+11:05:12 --> 11:05:13
+Giacomo Satoru Quintili: Okay.
+
+11:05:14 --> 11:05:18
+Giacomo Satoru Quintili: Finally, we can find…
+
+11:05:18 --> 11:05:20
+Giacomo Satoru Quintili: the fine tune.
+
+11:05:21 --> 11:05:24
+Giacomo Satoru Quintili: This is pretty rare.
+
+11:05:24 --> 11:05:29
+Giacomo Satoru Quintili: Because… it's even more precise.
+
+11:05:29 --> 11:05:32
+Giacomo Satoru Quintili: It's… it changes…
+
+11:05:32 --> 11:05:38
+Giacomo Satoru Quintili: The frequency, it's still, um, the frequency, sorry, it changes the frequency by cents.
+
+11:05:40 --> 11:05:44
+Giacomo Satoru Quintili: Sense. So it is a rotary knob.
+
+11:05:44 --> 11:05:48
+Giacomo Satoru Quintili: But this time, the range is even smaller.
+
+11:05:55 --> 11:06:00
+Giacomo Satoru Quintili: Now, the rotary knob doesn't exceed one semitone.
+
+11:06:01 --> 11:06:04
+Giacomo Satoru Quintili: You cannot go past one semitone.
+
+11:06:04 --> 11:06:06
+Giacomo Satoru Quintili: Drain.
+
+11:06:07 --> 11:06:09
+Giacomo Satoru Quintili: Plus one.
+
+11:06:09 --> 11:06:11
+Giacomo Satoru Quintili: and minus one semitone.
+
+11:06:13 --> 11:06:18
+Giacomo Satoru Quintili: This is pretty rare. In voltage modular, you don't have it.
+
+11:06:19 --> 11:06:25
+Giacomo Satoru Quintili: In voltage modular, you have this frequency knob. What do you think it is? A tune?
+
+11:06:25 --> 11:06:30
+Giacomo Satoru Quintili: Coarse tune or fine tune? Think. Look at the labels.
+
+11:06:42 --> 11:06:51
+Giacomo Satoru Quintili: No, these three I'll tell you because there's no time. Don't worry guys, it's normal. Usually information needs to settle.
+
+11:06:51 --> 11:06:52
+Daniel Bradarić: Of course.
+
+11:06:51 --> 11:06:55
+Giacomo Satoru Quintili: This is Brava, chorus. It's a chorus tune.
+
+11:06:55 --> 11:07:06
+Giacomo Satoru Quintili: It's not a tune, because you cannot go, like, 2000Hz high. It's not a fine tune, because you have 7 semitones here.
+
+11:07:06 --> 11:07:08
+Giacomo Satoru Quintili: So this is the course tune.
+
+11:07:08 --> 11:07:10
+Giacomo Satoru Quintili: game.
+
+11:07:10 --> 11:07:18
+Giacomo Satoru Quintili: Coarse tune is more versatile, we could say. You can use it as a fine tune.
+
+11:07:19 --> 11:07:24
+Giacomo Satoru Quintili: By just a small, you increase it by small, you are changing cents.
+
+11:07:25 --> 11:07:27
+Giacomo Satoru Quintili: Let's write this down.
+
+11:07:31 --> 11:07:33
+Giacomo Satoru Quintili: Uh, chorus tune.
+
+11:07:33 --> 11:07:38
+Giacomo Satoru Quintili: knob is more common to see.
+
+11:07:40 --> 11:07:41
+Giacomo Satoru Quintili: Because…
+
+11:07:41 --> 11:07:43
+Giacomo Satoru Quintili: It's more.
+
+11:07:43 --> 11:07:45
+Giacomo Satoru Quintili: Versatile.
+
+11:07:48 --> 11:07:50
+Giacomo Satoru Quintili: game.
+
+11:07:50 --> 11:07:52
+Giacomo Satoru Quintili: Two is an overkill.
+
+11:07:53 --> 11:07:58
+Giacomo Satoru Quintili: It's also imprecise. It's not precise.
+
+11:07:59 --> 11:08:04
+Giacomo Satoru Quintili: Chords tune, sorry, fine tune is two.
+
+11:08:04 --> 11:08:05
+Giacomo Satoru Quintili: Precise.
+
+11:08:06 --> 11:08:10
+Giacomo Satoru Quintili: Okay, you can get the same results.
+
+11:08:14 --> 11:08:16
+Giacomo Satoru Quintili: using a Corsium.
+
+11:08:20 --> 11:08:21
+Giacomo Satoru Quintili: Game.
+
+11:08:24 --> 11:08:30
+Giacomo Satoru Quintili: But I need to tell you about their existence.
+
+11:08:30 --> 11:08:37
+Giacomo Satoru Quintili: Because. Oh, no, I closed it. Oh, let me open. Maybe I have it. No, I don't have it. Vital.
+
+11:08:37 --> 11:08:40
+Giacomo Satoru Quintili: Yes, that's open vital.
+
+11:08:40 --> 11:08:47
+Giacomo Satoru Quintili: If you open any modern synthesizer, such as this one.
+
+11:08:47 --> 11:08:49
+Giacomo Satoru Quintili: You see that here we have…
+
+11:08:50 --> 11:08:52
+Giacomo Satoru Quintili: Do we have a keyboard here?
+
+11:08:54 --> 11:08:57
+Giacomo Satoru Quintili: Uh, damn it, I don't have a keyboard.
+
+11:08:57 --> 11:08:59
+Giacomo Satoru Quintili: Well, I need to open.
+
+11:08:59 --> 11:09:12
+Giacomo Satoru Quintili: cubes. Anyway, what I'm saying is that on a modern synthesizer, such as Serum, Vital, you will find coarse-tuned and fine-tuned, so you need to be aware of their existence.
+
+11:09:18 --> 11:09:20
+Giacomo Satoru Quintili: For example, on serum.
+
+11:09:22 --> 11:09:36
+Giacomo Satoru Quintili: A very famous one. Every producer has it. Okay. On Serum, here you have the oscillator. That's the waveform, right? Here you have, well, the octave range. We will get there in a moment. We have the core tune.
+
+11:09:39 --> 11:09:43
+Giacomo Satoru Quintili: So you need to be able of what, what is this course tune is called?
+
+11:09:43 --> 11:09:46
+Giacomo Satoru Quintili: Changes the frequency by semitones.
+
+11:09:47 --> 11:09:50
+Giacomo Satoru Quintili: And here we have this fine tune.
+
+11:09:53 --> 11:09:54
+Giacomo Satoru Quintili: You see?
+
+11:09:54 --> 11:09:57
+Giacomo Satoru Quintili: It doesn't exceed 100.
+
+11:09:57 --> 11:10:01
+Giacomo Satoru Quintili: Remember, 100 cent…
+
+11:10:02 --> 11:10:05
+Giacomo Satoru Quintili: is equal to one semitone.
+
+11:10:09 --> 11:10:10
+Giacomo Satoru Quintili: Time?
+
+11:10:11 --> 11:10:21
+Giacomo Satoru Quintili: The coarse tuning voltage moduler allows you to change both semitones and sends, that's why we only have this one.
+
+11:10:23 --> 11:10:25
+Giacomo Satoru Quintili: because.
+
+11:10:28 --> 11:10:31
+Giacomo Satoru Quintili: Here we have the semitone, two semitones.
+
+11:10:31 --> 11:10:34
+Giacomo Satoru Quintili: And here we have descents.
+
+11:10:35 --> 11:10:38
+Giacomo Satoru Quintili: So this is plus two.
+
+11:10:39 --> 11:10:42
+Giacomo Satoru Quintili: Plus two semitones.
+
+11:10:46 --> 11:10:47
+Giacomo Satoru Quintili: And…
+
+11:10:47 --> 11:10:49
+Giacomo Satoru Quintili: 31 cents.
+
+11:10:52 --> 11:10:55
+Giacomo Satoru Quintili: So this does both.
+
+11:10:55 --> 11:10:56
+Giacomo Satoru Quintili: Okay.
+
+11:10:58 --> 11:11:00
+Giacomo Satoru Quintili: Any question?
+
+11:11:02 --> 11:11:03
+Giacomo Satoru Quintili: Good, let's move on.
+
+11:11:05 --> 11:11:08
+Giacomo Satoru Quintili: So we saw tune.
+
+11:11:08 --> 11:11:11
+Giacomo Satoru Quintili: Generic. Knob.
+
+11:11:11 --> 11:11:19
+Giacomo Satoru Quintili: Coarse tune, semitones, still rotary, gradual. Fine tune, even more precise.
+
+11:11:19 --> 11:11:21
+Giacomo Satoru Quintili: It changes sense.
+
+11:11:21 --> 11:11:22
+Giacomo Satoru Quintili: fine-tuned.
+
+11:11:24 --> 11:11:28
+Giacomo Satoru Quintili: But know that we also have a range.
+
+11:11:29 --> 11:11:32
+Giacomo Satoru Quintili: Also known as Octave Selector.
+
+11:11:34 --> 11:11:38
+Giacomo Satoru Quintili: So expect to find this one on a synthesizer.
+
+11:11:41 --> 11:11:43
+Giacomo Satoru Quintili: This one is usually a switch.
+
+11:11:44 --> 11:11:49
+Giacomo Satoru Quintili: A series of buttons, something that goes by steps.
+
+11:11:49 --> 11:11:51
+Giacomo Satoru Quintili: So…
+
+11:11:51 --> 11:11:54
+Giacomo Satoru Quintili: Expect to see something like this.
+
+11:11:57 --> 11:11:59
+Giacomo Satoru Quintili: Or like this…
+
+11:12:03 --> 11:12:04
+Giacomo Satoru Quintili: Arrange.
+
+11:12:09 --> 11:12:14
+Giacomo Satoru Quintili: So it's a rotary knob, it's a switch.
+
+11:12:22 --> 11:12:25
+Giacomo Satoru Quintili: But act careful, goes by steps.
+
+11:12:25 --> 11:12:29
+Giacomo Satoru Quintili: Okay, it's not gradual. You cannot turn it.
+
+11:12:29 --> 11:12:31
+Giacomo Satoru Quintili: So, it clicks.
+
+11:12:31 --> 11:12:33
+Giacomo Satoru Quintili: Um…
+
+11:12:34 --> 11:12:37
+Giacomo Satoru Quintili: and also differ. Where is it?
+
+11:12:39 --> 11:12:41
+Giacomo Satoru Quintili: Eh, sure, sure.
+
+11:12:44 --> 11:12:49
+Giacomo Satoru Quintili: Oh yeah, range.
+
+11:12:51 --> 11:12:53
+Giacomo Satoru Quintili: There you go. There's one.
+
+11:12:55 --> 11:12:58
+Giacomo Satoru Quintili: Yet another rotary knob.
+
+11:12:58 --> 11:13:13
+Giacomo Satoru Quintili: But I'm saving this because we have a different number numeric labeling. So let's talk about the labels that you can find on a range because what is this number? 32. What is this?
+
+11:13:13 --> 11:13:20
+Giacomo Satoru Quintili: Apostrophe. What is this? You need to be competent and know. These are called feet.
+
+11:13:21 --> 11:13:23
+Giacomo Satoru Quintili: Okay.
+
+11:13:23 --> 11:13:25
+Giacomo Satoru Quintili: Ranges.
+
+11:13:25 --> 11:13:27
+Giacomo Satoru Quintili: Octave selector.
+
+11:13:27 --> 11:13:33
+Giacomo Satoru Quintili: Uh, allow you to change the octave, so they are a utility. Purpose.
+
+11:13:34 --> 11:13:35
+Giacomo Satoru Quintili: utility.
+
+11:13:35 --> 11:13:37
+Giacomo Satoru Quintili: They are useful.
+
+11:13:40 --> 11:13:42
+Giacomo Satoru Quintili: Range is useful.
+
+11:13:44 --> 11:13:46
+Giacomo Satoru Quintili: Okay? You jump immediately.
+
+11:13:46 --> 11:13:48
+Giacomo Satoru Quintili: But, um…
+
+11:13:48 --> 11:13:52
+Giacomo Satoru Quintili: Also know that we have different labeling.
+
+11:13:52 --> 11:13:54
+Giacomo Satoru Quintili: On a range.
+
+11:13:56 --> 11:13:59
+Giacomo Satoru Quintili: Let's talk about the first one, which is the easiest.
+
+11:14:01 --> 11:14:09
+Giacomo Satoru Quintili: You can either, uh, you can either find, uh, simple numbers, minus 2, minus 1, 0.
+
+11:14:09 --> 11:14:10
+Giacomo Satoru Quintili: Okay.
+
+11:14:17 --> 11:14:21
+Giacomo Satoru Quintili: Integer numbers. Minus two.
+
+11:14:21 --> 11:14:28
+Giacomo Satoru Quintili: minus 1, 0, right? Where 0 obviously means that the range is off.
+
+11:14:28 --> 11:14:29
+Giacomo Satoru Quintili: Bypass.
+
+11:14:31 --> 11:14:33
+Giacomo Satoru Quintili: Does it make sense?
+
+11:14:35 --> 11:14:43
+Giacomo Satoru Quintili: Okay, easy, easy. Now, let's talk about these numbers, 32, 16, 8, 4, 2. These are called feet.
+
+11:14:44 --> 11:14:49
+Giacomo Satoru Quintili: 32 feet, 16 feet, 8 feet.
+
+11:14:49 --> 11:14:56
+Giacomo Satoru Quintili: 4 feet, 2 feet, uh, or sometimes you can find one, but who cares? These, okay?
+
+11:14:58 --> 11:14:59
+Giacomo Satoru Quintili: Very common.
+
+11:15:02 --> 11:15:09
+Giacomo Satoru Quintili: First, they come from the organ tradition. That's why, the pedal system of the organ.
+
+11:15:09 --> 11:15:11
+Giacomo Satoru Quintili: Hmm?
+
+11:15:13 --> 11:15:15
+Giacomo Satoru Quintili: Organ, pedal.
+
+11:15:17 --> 11:15:19
+Giacomo Satoru Quintili: Uh…
+
+11:15:21 --> 11:15:25
+Giacomo Satoru Quintili: Where the principle is this.
+
+11:15:25 --> 11:15:32
+Giacomo Satoru Quintili: This was basically the size of the tube of the organ.
+
+11:15:32 --> 11:15:37
+Giacomo Satoru Quintili: You know the organ has tubes? I mean the cylinders?
+
+11:15:37 --> 11:15:42
+Giacomo Satoru Quintili: And the taller they were, the bigger the tubes, the lower the note.
+
+11:15:42 --> 11:15:43
+Giacomo Satoru Quintili: Right?
+
+11:15:45 --> 11:15:49
+Giacomo Satoru Quintili: So, 32 expect to be a low octave.
+
+11:15:49 --> 11:15:51
+Giacomo Satoru Quintili: So 32 feet.
+
+11:15:54 --> 11:15:58
+Giacomo Satoru Quintili: means big tube.
+
+11:15:58 --> 11:16:03
+Giacomo Satoru Quintili: It's big tube, but big tube means low note.
+
+11:16:05 --> 11:16:08
+Giacomo Satoru Quintili: Okay, so…
+
+11:16:08 --> 11:16:12
+Giacomo Satoru Quintili: Pipe! Oh, there you go. That was the term. Pipe. Pipe.
+
+11:16:12 --> 11:16:14
+Giacomo Satoru Quintili: Not tube.
+
+11:16:14 --> 11:16:16
+Giacomo Satoru Quintili: Big pipe.
+
+11:16:21 --> 11:16:27
+Giacomo Satoru Quintili: Does it make sense? Do you know an organ? A church organ, you know? You have a picture?
+
+11:16:28 --> 11:16:29
+Giacomo Satoru Quintili: So.
+
+11:16:32 --> 11:16:34
+Giacomo Satoru Quintili: The eighth.
+
+11:16:34 --> 11:16:36
+Giacomo Satoru Quintili: Feet pipe.
+
+11:16:37 --> 11:16:39
+Giacomo Satoru Quintili: What's the middle one?
+
+11:16:41 --> 11:16:44
+Giacomo Satoru Quintili: This is basically called nominal octave.
+
+11:16:45 --> 11:16:48
+Giacomo Satoru Quintili: Or middle octave.
+
+11:16:49 --> 11:16:54
+Giacomo Satoru Quintili: is the middle. This is usually the value.
+
+11:16:54 --> 11:16:58
+Giacomo Satoru Quintili: in which the range is off.
+
+11:17:03 --> 11:17:05
+Giacomo Satoru Quintili: AKA, bypass.
+
+11:17:07 --> 11:17:10
+Giacomo Satoru Quintili: So if you want to turn off the range.
+
+11:17:10 --> 11:17:13
+Giacomo Satoru Quintili: Set it to 8 feet.
+
+11:17:14 --> 11:17:16
+Giacomo Satoru Quintili: So far, so good.
+
+11:17:19 --> 11:17:25
+Giacomo Satoru Quintili: Not much else to say. So you increase the octave by clicking here.
+
+11:17:26 --> 11:17:30
+Giacomo Satoru Quintili: you go down by 32. Now.
+
+11:17:30 --> 11:17:40
+Giacomo Satoru Quintili: What is this LO? LO? Oh, this is an exception, guys. LO, if you find the written LO, means that the…
+
+11:17:40 --> 11:17:44
+Giacomo Satoru Quintili: The VCO can be turned into an LFO.
+
+11:17:45 --> 11:17:48
+Giacomo Satoru Quintili: So, this button…
+
+11:17:48 --> 11:17:56
+Giacomo Satoru Quintili: LO turns the VCO into low frequency oscillator, into a low frequency oscillator.
+
+11:18:03 --> 11:18:07
+Giacomo Satoru Quintili: Basically, it goes below 20 Hz.
+
+11:18:10 --> 11:18:12
+Giacomo Satoru Quintili: its frequency.
+
+11:18:12 --> 11:18:15
+Giacomo Satoru Quintili: It goes below.
+
+11:18:15 --> 11:18:17
+Giacomo Satoru Quintili: 20 hertz.
+
+11:18:17 --> 11:18:31
+Giacomo Satoru Quintili: So basically, you can use, um, it is used, the LO button, it is used to recycle a VCO into an LFO. Let's suppose your LFO is broken. You can still use a VCO.
+
+11:18:31 --> 11:18:33
+Giacomo Satoru Quintili: to replace it.
+
+11:18:33 --> 11:18:35
+Giacomo Satoru Quintili: Doesn't make sense.
+
+11:18:40 --> 11:18:44
+Giacomo Satoru Quintili: In the Minimoog, you see LO is here as well.
+
+11:18:47 --> 11:18:48
+Giacomo Satoru Quintili: Okay.
+
+11:18:49 --> 11:18:53
+Giacomo Satoru Quintili: Don't press it then. That's the point. Do not press hello.
+
+11:18:53 --> 11:18:54
+Giacomo Satoru Quintili: Okay?
+
+11:18:58 --> 11:19:00
+Giacomo Satoru Quintili: All right, so questions so far?
+
+11:19:03 --> 11:19:05
+Giacomo Satoru Quintili: All right.
+
+11:19:08 --> 11:19:22
+Giacomo Satoru Quintili: Waveform selector. Let's talk about now. We finished with the frequency controls. Let's talk about the timber controls. Timber. How to change the timber. We have two waves.
+
+11:19:22 --> 11:19:25
+Giacomo Satoru Quintili: Two ways, two ways.
+
+11:19:26 --> 11:19:34
+Giacomo Satoru Quintili: just change the frequency using the frequency selector, the waveform selector, sorry. This is called waveform selector.
+
+11:19:44 --> 11:19:46
+Giacomo Satoru Quintili: Very cool.
+
+11:19:47 --> 11:19:49
+Giacomo Satoru Quintili: Um…
+
+11:19:49 --> 11:19:55
+Giacomo Satoru Quintili: Here you can just, you can just click here to change the wave.
+
+11:19:56 --> 11:20:02
+Giacomo Satoru Quintili: Waveform selector, as well. On a Minimoog, for example.
+
+11:20:04 --> 11:20:06
+Giacomo Satoru Quintili: You don't have cables, you have…
+
+11:20:06 --> 11:20:11
+Giacomo Satoru Quintili: On a compact synthesizer, you usually have some kind of switch.
+
+11:20:11 --> 11:20:15
+Giacomo Satoru Quintili: A button or a switch knob.
+
+11:20:16 --> 11:20:17
+Giacomo Satoru Quintili: Okay.
+
+11:20:24 --> 11:20:28
+Giacomo Satoru Quintili: Let's open the DCO, for example. Here we have buttons.
+
+11:20:34 --> 11:20:40
+Giacomo Satoru Quintili: This is another synthesizer. As you can see here, we have the range. And here we have.
+
+11:20:40 --> 11:20:42
+Giacomo Satoru Quintili: the waveform selector.
+
+11:20:45 --> 11:20:52
+Giacomo Satoru Quintili: So sometimes it's easy how many ways you can find a waveform selector.
+
+11:20:53 --> 11:20:55
+Giacomo Satoru Quintili: So far, so good.
+
+11:20:56 --> 11:20:59
+Giacomo Satoru Quintili: All right, let's talk about…
+
+11:20:59 --> 11:21:00
+Giacomo Satoru Quintili: The pulse width.
+
+11:21:00 --> 11:21:02
+Giacomo Satoru Quintili: Pulse width.
+
+11:21:03 --> 11:21:06
+Giacomo Satoru Quintili: Which is written like this, just a moment.
+
+11:21:06 --> 11:21:11
+Giacomo Satoru Quintili: And that's gonna do it here to save space. Pulse.
+
+11:21:11 --> 11:21:13
+Giacomo Satoru Quintili: with…
+
+11:21:13 --> 11:21:16
+Giacomo Satoru Quintili: with, I can't spell it, with…
+
+11:21:17 --> 11:21:18
+Giacomo Satoru Quintili: Mmhm.
+
+11:21:18 --> 11:21:21
+Giacomo Satoru Quintili: Shorten PW.
+
+11:21:22 --> 11:21:27
+Giacomo Satoru Quintili: Alright, what does it do? First, it only works on square wave.
+
+11:21:32 --> 11:21:38
+Giacomo Satoru Quintili: So you need to select square wave, otherwise it doesn't work. First. Second…
+
+11:21:38 --> 11:21:41
+Giacomo Satoru Quintili: What does it do? It changes.
+
+11:21:41 --> 11:21:43
+Giacomo Satoru Quintili: The shape…
+
+11:21:43 --> 11:21:46
+Giacomo Satoru Quintili: of the square.
+
+11:21:47 --> 11:21:49
+Giacomo Satoru Quintili: Changes the shape of the square.
+
+11:21:50 --> 11:21:52
+Giacomo Satoru Quintili: I'll show you, hmm?
+
+11:21:52 --> 11:21:55
+Giacomo Satoru Quintili: from a symmetrical.
+
+11:21:55 --> 11:22:01
+Giacomo Satoru Quintili: square, we have a rectangular.
+
+11:22:04 --> 11:22:07
+Giacomo Satoru Quintili: That's what the pulse width does, you can find it here.
+
+11:22:20 --> 11:22:22
+Giacomo Satoru Quintili: Doesn't make sense.
+
+11:22:23 --> 11:22:30
+Giacomo Satoru Quintili: So, only affects the square wave, and it changes the square into a rectangular.
+
+11:22:37 --> 11:22:44
+Giacomo Satoru Quintili: You can find it labeled with different names, so be aware of their existence, otherwise…
+
+11:22:44 --> 11:22:50
+Giacomo Satoru Quintili: On a synthesizer, you might see the label and ask yourself, what is this?
+
+11:22:50 --> 11:22:54
+Giacomo Satoru Quintili: You can also find it as…
+
+11:22:54 --> 11:22:56
+Giacomo Satoru Quintili: duty cycle.
+
+11:22:56 --> 11:23:01
+Giacomo Satoru Quintili: I know that doesn't make much sense, but duty cycle symmetry.
+
+11:23:04 --> 11:23:10
+Giacomo Satoru Quintili: Well, because it changes the symmetry of the square. It makes it asymmetrical.
+
+11:23:10 --> 11:23:11
+Giacomo Satoru Quintili: Game.
+
+11:23:11 --> 11:23:14
+Giacomo Satoru Quintili: Oh, no. Oh, shoot.
+
+11:23:14 --> 11:23:16
+Giacomo Satoru Quintili: So duty cycle.
+
+11:23:18 --> 11:23:20
+Giacomo Satoru Quintili: or symmetry.
+
+11:23:22 --> 11:23:23
+Giacomo Satoru Quintili: And…
+
+11:23:24 --> 11:23:37
+Giacomo Satoru Quintili: Be careful, because on a synthesizer, real synthesizer, not in voltage, but on a real synthesizer, if you set the symmetry, pulse width, whatever, to max value, or minimum.
+
+11:23:38 --> 11:23:43
+Giacomo Satoru Quintili: to zero or 100%, you kill the sound.
+
+11:23:44 --> 11:23:47
+Giacomo Satoru Quintili: Let me repeat this one.
+
+11:23:47 --> 11:23:49
+Giacomo Satoru Quintili: Be aware.
+
+11:23:56 --> 11:23:58
+Giacomo Satoru Quintili: All right, let's put it here.
+
+11:23:58 --> 11:24:06
+Giacomo Satoru Quintili: maximum value or minimum value, you cause the waveform to completely disappear.
+
+11:24:08 --> 11:24:12
+Giacomo Satoru Quintili: You get a flat line, a flat line, you see?
+
+11:24:12 --> 11:24:16
+Giacomo Satoru Quintili: No more oscillation, therefore no more sound.
+
+11:24:18 --> 11:24:21
+Giacomo Satoru Quintili: So, at extreme values.
+
+11:24:22 --> 11:24:24
+Giacomo Satoru Quintili: PW values.
+
+11:24:24 --> 11:24:26
+Giacomo Satoru Quintili: The, uh…
+
+11:24:26 --> 11:24:28
+Giacomo Satoru Quintili: Sound disappear.
+
+11:24:36 --> 11:24:40
+Giacomo Satoru Quintili: What does the pulse width do to the sound? Pulse width?
+
+11:24:40 --> 11:24:41
+Giacomo Satoru Quintili: Changes.
+
+11:24:41 --> 11:24:43
+Giacomo Satoru Quintili: square shape.
+
+11:24:46 --> 11:24:48
+Giacomo Satoru Quintili: AKA changes.
+
+11:24:48 --> 11:24:49
+Giacomo Satoru Quintili: Timber.
+
+11:24:50 --> 11:24:54
+Giacomo Satoru Quintili: So PW PulseWidth allows us to get even more Timburts.
+
+11:24:59 --> 11:25:01
+Giacomo Satoru Quintili: Now…
+
+11:25:03 --> 11:25:05
+Giacomo Satoru Quintili: And…
+
+11:25:12 --> 11:25:16
+Giacomo Satoru Quintili: The bypass value of the pulse width is 50%.
+
+11:25:23 --> 11:25:25
+Giacomo Satoru Quintili: In the middle.
+
+11:25:26 --> 11:25:28
+Giacomo Satoru Quintili: And Pulseway can be…
+
+11:25:29 --> 11:25:32
+Giacomo Satoru Quintili: Uh, gradual.
+
+11:25:32 --> 11:25:34
+Giacomo Satoru Quintili: So, rotary knob, or…
+
+11:25:40 --> 11:25:44
+Giacomo Satoru Quintili: You can find it as a rotary knob, continuous, or by steps.
+
+11:25:45 --> 11:25:48
+Giacomo Satoru Quintili: Hmm? Preset values.
+
+11:25:59 --> 11:26:01
+Giacomo Satoru Quintili: For example, here.
+
+11:26:01 --> 11:26:05
+Giacomo Satoru Quintili: Here is a rotary. This is a rotary.
+
+11:26:08 --> 11:26:09
+Giacomo Satoru Quintili: So you can.
+
+11:26:10 --> 11:26:13
+Giacomo Satoru Quintili: Have multiple values in between.
+
+11:26:13 --> 11:26:17
+Giacomo Satoru Quintili: And in the Minimoog, instead, we only have…
+
+11:26:17 --> 11:26:19
+Giacomo Satoru Quintili: few…
+
+11:26:19 --> 11:26:23
+Giacomo Satoru Quintili: preset values of pulse width, you cannot change them. You cannot.
+
+11:26:24 --> 11:26:27
+Giacomo Satoru Quintili: Decide them, you only have two.
+
+11:26:28 --> 11:26:30
+Giacomo Satoru Quintili: Wide and narrow.
+
+11:26:37 --> 11:26:39
+Giacomo Satoru Quintili: Now.
+
+11:26:40 --> 11:26:49
+Giacomo Satoru Quintili: I need to show you the exercise. We have five minutes. All right. So done. Okay.
+
+11:26:49 --> 11:26:55
+Giacomo Satoru Quintili: So let's see GX. We had no time to do practice together.
+
+11:26:55 --> 11:27:03
+Giacomo Satoru Quintili: Uh, so… the exercise for today is actually gonna be a little bit different. Luckily, we are recording, so watch this video.
+
+11:27:03 --> 11:27:04
+Giacomo Satoru Quintili: Okay?
+
+11:27:05 --> 11:27:06
+Giacomo Satoru Quintili: Follow my step.
+
+11:27:06 --> 11:27:18
+Giacomo Satoru Quintili: I'm going to teach you how to sum different multiple signals. So this time for this patch, we are going to create a chorus patch and a chord patch.
+
+11:27:18 --> 11:27:23
+Giacomo Satoru Quintili: So, we add three oscillators, one, two, three.
+
+11:27:23 --> 11:27:28
+Giacomo Satoru Quintili: Three is just a number that I choose. More than one. Three. Hmm.
+
+11:27:28 --> 11:27:32
+Giacomo Satoru Quintili: Remember, when you have multiple oscillators.
+
+11:27:34 --> 11:27:39
+Giacomo Satoru Quintili: You need to sum the signals. You cannot…
+
+11:27:39 --> 11:27:47
+Giacomo Satoru Quintili: uh, you cannot plug all the signals inside one single input. This is wrong, this is going to cause the distortion, for sure.
+
+11:27:47 --> 11:27:51
+Giacomo Satoru Quintili: So you need to use a specific module.
+
+11:27:51 --> 11:27:56
+Giacomo Satoru Quintili: meant to sum the signals, which is called Mixer.
+
+11:27:58 --> 11:28:05
+Giacomo Satoru Quintili: It's in voltage, it's called, you just type mixer, you find it, six input mixer, this one.
+
+11:28:05 --> 11:28:09
+Giacomo Satoru Quintili: You don't need all six of them, just the first three.
+
+11:28:09 --> 11:28:15
+Giacomo Satoru Quintili: So pick a waveform and in the exercise there's going to be a specific waveform.
+
+11:28:15 --> 11:28:17
+Giacomo Satoru Quintili: Hmm?
+
+11:28:17 --> 11:28:19
+Giacomo Satoru Quintili: Pick a waveform.
+
+11:28:20 --> 11:28:22
+Giacomo Satoru Quintili: Uh, um…
+
+11:28:23 --> 11:28:26
+Giacomo Satoru Quintili: Okay, let's pick this one for now.
+
+11:28:26 --> 11:28:29
+Giacomo Satoru Quintili: 1.
+
+11:28:29 --> 11:28:31
+Giacomo Satoru Quintili: Two and three.
+
+11:28:31 --> 11:28:34
+Giacomo Satoru Quintili: And then you have the output. Now…
+
+11:28:34 --> 11:28:42
+Giacomo Satoru Quintili: Learn how to do the gain staging. Gain staging, so not cause the distortion.
+
+11:28:42 --> 11:28:45
+Giacomo Satoru Quintili: So open the library, go to the BU meter.
+
+11:28:46 --> 11:28:50
+Giacomo Satoru Quintili: it's called the VU meter, allows you to…
+
+11:28:50 --> 11:28:53
+Giacomo Satoru Quintili: And it allows you to, uh, check.
+
+11:28:53 --> 11:29:03
+Giacomo Satoru Quintili: the amplitude. So, as you can see, we are distorting a lot. So we need to reduce each single channel like this to.
+
+11:29:04 --> 11:29:08
+Giacomo Satoru Quintili: avoid the thing touching the red. That's it.
+
+11:29:09 --> 11:29:10
+Giacomo Satoru Quintili: Okay.
+
+11:29:11 --> 11:29:20
+Giacomo Satoru Quintili: Once you're done, you remove it. The rest, you know it. It's basically the basic patch. So, filter, amplifier, two envelopes.
+
+11:29:20 --> 11:29:21
+Giacomo Satoru Quintili: Okay.
+
+11:29:23 --> 11:29:25
+Giacomo Satoru Quintili: So far so good. Any questions?
+
+11:29:27 --> 11:29:28
+Giacomo Satoru Quintili: Okay.
+
+11:29:32 --> 11:29:35
+Giacomo Satoru Quintili: Good. Let's now, um…
+
+11:29:37 --> 11:29:43
+Giacomo Satoru Quintili: The splitter. I'm going to need two splitters this time. Alt click.
+
+11:29:43 --> 11:29:45
+Giacomo Satoru Quintili: to duplicate.
+
+11:29:46 --> 11:29:52
+Giacomo Satoru Quintili: Because one is for the gate signal, the keyboard, the other one is for the pitch.
+
+11:29:52 --> 11:29:56
+Giacomo Satoru Quintili: Because all three oscillators must be controlled by the keyboard now.
+
+11:29:56 --> 11:30:02
+Giacomo Satoru Quintili: Okay, so let's go with the pitch first. I pick a color up here.
+
+11:30:02 --> 11:30:07
+Giacomo Satoru Quintili: Then I plug the pitch into the multiple splitter. One.
+
+11:30:07 --> 11:30:15
+Giacomo Satoru Quintili: two, and three. Common mistake is by plugging it by mistake on the hard sync. This is instantly rip.
+
+11:30:15 --> 11:30:16
+Giacomo Satoru Quintili: Pitch saving.
+
+11:30:18 --> 11:30:21
+Giacomo Satoru Quintili: Good, let's finish the audio signal.
+
+11:30:21 --> 11:30:26
+Giacomo Satoru Quintili: Output of the mixer, we have the sum, goes to the filter, low pass.
+
+11:30:26 --> 11:30:32
+Giacomo Satoru Quintili: input of the amplifier. Let's finish by plugging the output to the one left mono.
+
+11:30:33 --> 11:30:37
+Giacomo Satoru Quintili: Now let's plug the gate. Gate first.
+
+11:30:37 --> 11:30:42
+Giacomo Satoru Quintili: I'm going to select a darker shade. Great. One and two.
+
+11:30:42 --> 11:30:44
+Giacomo Satoru Quintili: Finally.
+
+11:30:44 --> 11:30:49
+Giacomo Satoru Quintili: Well, you know the procedure, right? That's the basic patch. Good.
+
+11:30:49 --> 11:30:51
+Giacomo Satoru Quintili: Now.
+
+11:30:50 --> 11:30:52
+Giacomo Satoru Quintili: La.
+
+11:30:52 --> 11:30:54
+Giacomo Satoru Quintili: Can you hear the sound?
+
+11:30:55 --> 11:30:57
+Giacomo Satoru Quintili: Heh heh.
+
+11:30:57 --> 11:31:12
+Giacomo Satoru Quintili: Now the exercise begins. So you just learned how to sum… First, you learned two new things. How to sum multiple sources into one single output using the mixer.
+
+11:31:12 --> 11:31:20
+Giacomo Satoru Quintili: First. Second, what you learn is gain staging. The practice, the good practice hygiene.
+
+11:31:20 --> 11:31:24
+Giacomo Satoru Quintili: to not make the signal distort.
+
+11:31:25 --> 11:31:30
+Giacomo Satoru Quintili: Use a view meter, lower each channel.
+
+11:31:30 --> 11:31:33
+Giacomo Satoru Quintili: Try to keep the balance, don't touch the master.
+
+11:31:35 --> 11:31:40
+Giacomo Satoru Quintili: Now the true exercise begins.
+
+11:31:40 --> 11:31:47
+Giacomo Satoru Quintili: with instructions that you have to read carefully, because they are going to test your comprehension of the BCO.
+
+11:31:49 --> 11:31:55
+Giacomo Satoru Quintili: You're going to learn two new patches, chorus and chord.
+
+11:31:56 --> 11:32:06
+Giacomo Satoru Quintili: Chorus, I'll show you. Real quick, very easy chorus. You need one rich waveform, so either pick the sawtooth or square.
+
+11:32:06 --> 11:32:10
+Giacomo Satoru Quintili: Don't do the sine wave.
+
+11:32:10 --> 11:32:11
+Giacomo Satoru Quintili: It's crap.
+
+11:32:11 --> 11:32:12
+Giacomo Satoru Quintili: Okay?
+
+11:32:12 --> 11:32:16
+Giacomo Satoru Quintili: First, rich waveform. Second.
+
+11:32:17 --> 11:32:20
+Giacomo Satoru Quintili: Slightly detuned by a few cents.
+
+11:32:21 --> 11:32:24
+Giacomo Satoru Quintili: The two secondary VCOs.
+
+11:32:25 --> 11:32:33
+Giacomo Satoru Quintili: by a few cents in a symmetrical way, meaning that if this one goes negative, this one goes positive.
+
+11:32:33 --> 11:32:35
+Giacomo Satoru Quintili: I go.
+
+11:32:39 --> 11:32:40
+Giacomo Satoru Quintili: That's it.
+
+11:32:40 --> 11:32:42
+Giacomo Satoru Quintili: Attach.
+
+11:32:42 --> 11:32:44
+Giacomo Satoru Quintili: Just a touch.
+
+11:32:45 --> 11:32:47
+Giacomo Satoru Quintili: If it's too much.
+
+11:32:48 --> 11:32:50
+Giacomo Satoru Quintili: It sucks.
+
+11:32:50 --> 11:32:52
+Giacomo Satoru Quintili: It's just like salt.
+
+11:32:54 --> 11:32:59
+Giacomo Satoru Quintili: or pepper, okay? So, slightly detune…
+
+11:32:59 --> 11:33:03
+Giacomo Satoru Quintili: Hmm? Minus 14, plus 14.
+
+11:33:05 --> 11:33:12
+Giacomo Satoru Quintili: I mean, plus 14, not semitones, cents. So, 0.14.
+
+11:33:12 --> 11:33:14
+Giacomo Satoru Quintili: Does it make sense?
+
+11:33:17 --> 11:33:21
+Giacomo Satoru Quintili: So I'm using the coarse tune as a fine tune.
+
+11:33:22 --> 11:33:25
+Giacomo Satoru Quintili: And we get the chorus.
+
+11:33:25 --> 11:33:38
+Giacomo Satoru Quintili: What is the chorus? The chorus effect is basically a wider sound made by multiple oscillators, slightly detuned between each other, so you get a choir.
+
+11:33:39 --> 11:33:40
+Giacomo Satoru Quintili: Right?
+
+11:33:40 --> 11:33:44
+Giacomo Satoru Quintili: Keep in mind, the range must be the same.
+
+11:33:44 --> 11:33:47
+Giacomo Satoru Quintili: You cannot have this one set to 4.
+
+11:33:47 --> 11:33:52
+Giacomo Satoru Quintili: Otherwise, it's not actually a true chorus, because they must be in unison.
+
+11:33:53 --> 11:33:57
+Giacomo Satoru Quintili: Same range, slightly off tune.
+
+11:33:57 --> 11:33:59
+Giacomo Satoru Quintili: So far, so good?
+
+11:34:00 --> 11:34:02
+Giacomo Satoru Quintili: Oppure.
+
+11:34:02 --> 11:34:07
+Giacomo Satoru Quintili: Careful in the exercise, I will ask you to set the specific range.
+
+11:34:09 --> 11:34:13
+Giacomo Satoru Quintili: And to make the pulse width work.
+
+11:34:16 --> 11:34:18
+Giacomo Satoru Quintili: It's not working.
+
+11:34:18 --> 11:34:19
+Giacomo Satoru Quintili: Figured it out why.
+
+11:34:19 --> 11:34:24
+Giacomo Satoru Quintili: Don't spoil the answer. Okay, so second.
+
+11:34:24 --> 11:34:27
+Giacomo Satoru Quintili: Ready? This was the chorus.
+
+11:34:27 --> 11:34:32
+Giacomo Satoru Quintili: Three oscillators in unison, slightly detuned symmetrically.
+
+11:34:32 --> 11:34:35
+Giacomo Satoru Quintili: Second, cord. How to get a cord.
+
+11:34:35 --> 11:34:39
+Giacomo Satoru Quintili: But first, let's save one variation.
+
+11:34:39 --> 11:34:42
+Giacomo Satoru Quintili: Click here on Save.
+
+11:34:42 --> 11:34:45
+Giacomo Satoru Quintili: Save, you see, here.
+
+11:34:45 --> 11:34:48
+Giacomo Satoru Quintili: And let's call it Chorus.
+
+11:34:51 --> 11:34:53
+Giacomo Satoru Quintili: Mmm.
+
+11:34:53 --> 11:34:57
+Giacomo Satoru Quintili: Now we can proceed and create the second variation.
+
+11:34:57 --> 11:35:01
+Giacomo Satoru Quintili: chord. Well, this time, let's use the chorus tune.
+
+11:35:01 --> 11:35:11
+Giacomo Satoru Quintili: So let's do, what do you want to do? What chord do you want to do? A triad though, eh? Nothing too fancy. You decide.
+
+11:35:11 --> 11:35:15
+Giacomo Satoru Quintili: Minor, major, augmented, what do you want to do?
+
+11:35:15 --> 11:35:16
+Daniel Bradarić: Minor.
+
+11:35:15 --> 11:35:21
+Giacomo Satoru Quintili: Minor, yes, let's be sad. So, the first one is gonna be the root.
+
+11:35:22 --> 11:35:24
+Giacomo Satoru Quintili: Don't touch it. Zero.
+
+11:35:24 --> 11:35:27
+Giacomo Satoru Quintili: The second one, you must detune it.
+
+11:35:27 --> 11:35:29
+Giacomo Satoru Quintili: How much, musician?
+
+11:35:30 --> 11:35:32
+Giacomo Satoru Quintili: How many semitones?
+
+11:35:31 --> 11:35:32
+Daniel Bradarić: I know, too.
+
+11:35:32 --> 11:35:34
+Daniel Bradarić: Hum.
+
+11:35:34 --> 11:35:35
+Daniel Bradarić: Uh…
+
+11:35:34 --> 11:35:35
+Giacomo Satoru Quintili: Plus.
+
+11:35:36 --> 11:35:38
+travismorgado: Oss, War.
+
+11:35:38 --> 11:35:40
+Giacomo Satoru Quintili: Four is a major.
+
+11:35:40 --> 11:35:43
+travismorgado: Howard, israeliani.
+
+11:35:42 --> 11:35:43
+Giacomo Satoru Quintili: Mmhm.
+
+11:35:43 --> 11:35:45
+Giacomo Satoru Quintili: Plus 3.
+
+11:35:46 --> 11:35:49
+Giacomo Satoru Quintili: So, this is the route.
+
+11:35:49 --> 11:35:55
+Giacomo Satoru Quintili: Okay, this is plus three semitones minor third interval.
+
+11:35:55 --> 11:35:57
+Giacomo Satoru Quintili: Does it make sense?
+
+11:36:00 --> 11:36:02
+Giacomo Satoru Quintili: Da-da-da-da…
+
+11:36:02 --> 11:36:05
+Giacomo Satoru Quintili: No? What's missing?
+
+11:36:06 --> 11:36:07
+travismorgado: The fest.
+
+11:36:06 --> 11:36:16
+Giacomo Satoru Quintili: Yes, perfect fifth music theory. So how many semitones does a perfect fifth interval have?
+
+11:36:07 --> 11:36:08
+Daniel Bradarić: Mm-hmm.
+
+11:36:17 --> 11:36:18
+travismorgado: Saven.
+
+11:36:18 --> 11:36:20
+Giacomo Satoru Quintili: Correct.
+
+11:36:20 --> 11:36:21
+Giacomo Satoru Quintili: Seven.
+
+11:36:22 --> 11:36:23
+Giacomo Satoru Quintili: Okay.
+
+11:36:24 --> 11:36:26
+Giacomo Satoru Quintili: In un.
+
+11:36:25 --> 11:36:27
+Giacomo Satoru Quintili: That's it.
+
+11:36:27 --> 11:36:30
+Giacomo Satoru Quintili: That's how you get a chord.
+
+11:36:30 --> 11:36:41
+Giacomo Satoru Quintili: Okay, let's go. You can also do this, no? More intuitively, more in instinct, to just rotate the knob instead of double-click and digit, which is pretty, I don't know, mechanical.
+
+11:36:44 --> 11:36:45
+Giacomo Satoru Quintili: Hey.
+
+11:36:48 --> 11:36:52
+Giacomo Satoru Quintili: No, use your musician instinct.
+
+11:36:52 --> 11:36:55
+Giacomo Satoru Quintili: Because here you see numbers.
+
+11:36:55 --> 11:36:56
+Giacomo Satoru Quintili: Right?
+
+11:36:56 --> 11:37:05
+Giacomo Satoru Quintili: On a real synthesizer, you don't have a display with numbers, usually. You must use your ear. So, yeah, close your eyes.
+
+11:37:05 --> 11:37:07
+Giacomo Satoru Quintili: Close your eyes and…
+
+11:37:09 --> 11:37:11
+Giacomo Satoru Quintili: First.
+
+11:37:13 --> 11:37:14
+Giacomo Satoru Quintili: That's it.
+
+11:37:14 --> 11:37:18
+Giacomo Satoru Quintili: How much? 7.10? 3.10? Not precise.
+
+11:37:17 --> 11:37:19
+Giacomo Satoru Quintili: In una.
+
+11:37:19 --> 11:37:21
+Giacomo Satoru Quintili: That's a chord.
+
+11:37:24 --> 11:37:27
+Giacomo Satoru Quintili: Finally, save the second one.
+
+11:37:27 --> 11:37:29
+Giacomo Satoru Quintili: Ask Cord.
+
+11:37:31 --> 11:37:33
+Giacomo Satoru Quintili: La.
+
+11:37:32 --> 11:37:34
+Giacomo Satoru Quintili: Now, with these arrows…
+
+11:37:34 --> 11:37:36
+Giacomo Satoru Quintili: You have chorus.
+
+11:37:38 --> 11:37:39
+Giacomo Satoru Quintili: cord here.
+
+11:37:40 --> 11:37:44
+Giacomo Satoru Quintili: Finally, let's suppose you made a mistake.
+
+11:37:44 --> 11:37:48
+Giacomo Satoru Quintili: Huh? You, you, I mean, you need to save the preset now.
+
+11:37:48 --> 11:37:51
+Giacomo Satoru Quintili: Okay, let's do.
+
+11:37:51 --> 11:37:53
+Giacomo Satoru Quintili: Uh… cord.
+
+11:37:54 --> 11:37:56
+Giacomo Satoru Quintili: Call re-scored.
+
+11:37:56 --> 11:38:00
+Giacomo Satoru Quintili: For example, no chorus and chord save. Nice.
+
+11:38:00 --> 11:38:05
+Giacomo Satoru Quintili: Eh, let's suppose, oh, ah, man, damn it, the cord shatters.
+
+11:38:05 --> 11:38:10
+Giacomo Satoru Quintili: should have had higher range, a 4 feet range.
+
+11:38:10 --> 11:38:15
+Giacomo Satoru Quintili: I made a mistake. If you go here, listen, and you change it…
+
+11:38:15 --> 11:38:18
+Giacomo Satoru Quintili: Now, oh yeah, now it works.
+
+11:38:18 --> 11:38:24
+Giacomo Satoru Quintili: Careful, you need to overwrite the variation, because if you don't do so.
+
+11:38:24 --> 11:38:32
+Giacomo Satoru Quintili: You change the variation, you go to chorus, and then you go back to chord, it didn't save your edit.
+
+11:38:32 --> 11:38:34
+Giacomo Satoru Quintili: Doesn't make sense.
+
+11:38:34 --> 11:38:37
+Giacomo Satoru Quintili: So, if you make a mistake, and you want to fix it.
+
+11:38:37 --> 11:38:42
+Giacomo Satoru Quintili: such as this one, then remember to overwrite.
+
+11:38:42 --> 11:38:44
+Giacomo Satoru Quintili: The variation with the same name.
+
+11:38:45 --> 11:38:49
+Giacomo Satoru Quintili: I save it. He asked me, you want to overwrite? Yes.
+
+11:38:49 --> 11:38:55
+Giacomo Satoru Quintili: And now my, and then I save the preset, the, I have to save a lot of times.
+
+11:38:55 --> 11:38:59
+Giacomo Satoru Quintili: Okay, so save again also the preset.
+
+11:38:59 --> 11:39:01
+Giacomo Satoru Quintili: And make sure it works.
+
+11:39:02 --> 11:39:08
+Giacomo Satoru Quintili: That's an easy way to, it's easy to get it wrong, okay? It's easy to get confused.
+
+11:39:09 --> 11:39:11
+Giacomo Satoru Quintili: So far so good?
+
+11:39:13 --> 11:39:15
+Giacomo Satoru Quintili: All right, so.
+
+11:39:17 --> 11:39:18
+Giacomo Satoru Quintili: Up.
+
+11:39:18 --> 11:39:26
+Giacomo Satoru Quintili: The exercise… careful, guys. The exercise will test your comprehension. Read it well.
+
+11:39:26 --> 11:39:29
+Giacomo Satoru Quintili: Make sure the pulse width works.
+
+11:39:30 --> 11:39:32
+Giacomo Satoru Quintili: Up.
+
+11:39:32 --> 11:39:37
+Giacomo Satoru Quintili: Ah, also one thing that I didn't tell you about the variations. Don't worry.
+
+11:39:37 --> 11:39:41
+Giacomo Satoru Quintili: Variations don't change the cables.
+
+11:39:41 --> 11:39:47
+Giacomo Satoru Quintili: So, if you say, oh, no, but this doesn't… don't worry, it's part of the plan.
+
+11:39:47 --> 11:39:54
+Giacomo Satoru Quintili: Variation don't change the cables, they only change the knobs, the buttons.
+
+11:39:54 --> 11:39:56
+Giacomo Satoru Quintili: Not the cables.
+
+11:39:57 --> 11:40:00
+Giacomo Satoru Quintili: Okay, it's normal.
+
+11:40:01 --> 11:40:05
+Giacomo Satoru Quintili: Okay, so be careful about the exercise.
+
+11:40:06 --> 11:40:21
+Giacomo Satoru Quintili: I don't want to scare you, but expect some of you expect to get a critical mistake and have to submit again. It's just an expectation. OK, so don't worry. Don't feel bad about it.
