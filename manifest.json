@@ -13,11 +13,17 @@
       "title": "Architecture of a Synthesizer",
       "url": "Transcripts/2026-10-16-Lesson-02-Synthesizer-Architecture.txt"
     },
-    {
+     {
       "id": "lesson-03",
       "lesson": 3,
       "title": "Modules, Inputs, Amount and Keyboard",
       "url": "Transcripts/2026-10-30-Lesson-03-Modules-Inputs-Amount-Keyboard.txt"
+    },
+    {
+      "id": "lesson-04",
+      "lesson": 4,
+      "title": "Parameters of the Sound and the VCO",
+      "url": "Transcripts/2026-11-13-Lesson-04-Parameters-of-the-sound-VCO.txt"
     }
   ]
 }
